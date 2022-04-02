@@ -3,6 +3,24 @@ Ph.D.<br>
 Senior Member, IEEE<br>
 
 ## Employment
+```markdown
+- Sep. 2019 - present
+# Kuaishou Technology
+Audio Research Engineer (TL)
+
+- Jan. 2018 - Aug. 2019
+Tibet WiseBridge Asset Management Corporation
+Director of Investment
+
+- Jun. 2016 - Dec. 2017
+Yinkman (Beijing) Technology Co., Ltd
+Principal Researcher
+
+- Mar. 2013 - May. 2016
+Dolby Laboratories
+Senior Researcher
+```
+
 - **Sep. 2019 - present**<br>
 **Kuaishou Technology**<br>
 Audio Research Engineer (TL)<br>
@@ -18,7 +36,7 @@ Principal Researcher<br>
 - **Mar. 2013 - May. 2016**<br>
 **Dolby Laboratories** <br>
 Senior Researcher<br>
- 
+
 ## Education
 - **Aug. 2009 - Dec. 2013** <br>
 **University of Wollongong, Australia** <br> 
@@ -65,7 +83,8 @@ B.A., Engineering, (Joint Program)<br>
 
 ### Conference
 ```markdown
-**1.** L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION”, in **ICME 2022** , in press. (CCF:B)<br>
+**1.** L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION 
+FOR MUSIC SOURCE SEPARATION”, in **ICME 2022** , in press. (CCF:B)<br>
 **2.** H. Zhao, N. Li, R. Han, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A DEEP HIERARCHICAL FUSION NETWORK FOR FULLBAND ACOUSTIC ECHO CANCELLATION”, in **2022 IEEE International Conference on Acoustics, Speech and Signal Processing**, in press. (CCF:B)<br>
 **3.** E. Guizzo et al.,“L3DAS22 CHALLENGE: LEARNING 3D AUDIO SOURCES IN A REAL OFFICE ENVIRONMENT”, in **2022 IEEE International Conference on Acoustics, Speech and Signal Processing**, in press. (CCF:B)<br>
 **4.** X. Zhang, X. Ren, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A TWO-STEP BACKWARD COMPATIBLE FULLBAND SPEECH ENHANCEMENT SYSTEM”, in **2022 IEEE International Conference on Acoustics, Speech and Signal Processing**, in press. (CCF:B)<br>
