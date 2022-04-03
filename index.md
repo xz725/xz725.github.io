@@ -34,15 +34,15 @@ Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
 
 ## Honors and Awards
 ```markdown
-     `2022` <1<sup>st</sup> place>, Interspeech 2022 Deep Audio PLC Challenge
-     `2022` <2nd place>, Interspeech 2022 Conferencing Speech Challenge
-     `2022` <2nd place>, ICASSP 2022 Acoustic Echo Cancellation Challenge
-     `2022` <4th place>, ICASSP 2022 Deep Noise Suppression Challenge Task 2
-     `2021` <1st place>, Interspeech 2021 Conferencing Speech Challenge task 1
-     `2021` <1st place>, Interspeech 2021 Conferencing Speech Challenge task 2
-     `2021` <1st place>, IEEE MLSP 2021 L3DAS21 Challenge task 1
-     `2021` <6th place>, Interspeech 2021 Deep Noise Suppression Challenge task 1
-     `2021` <3rd place>, Interspeech 2021 Acoustic Echo Cancellation Challenge
+     `2022` <1 place, Interspeech 2022 Deep Audio PLC Challenge
+     `2022` <2 place>, Interspeech 2022 Conferencing Speech Challenge
+     `2022` <2 place>, ICASSP 2022 Acoustic Echo Cancellation Challenge
+     `2022` <4 place>, ICASSP 2022 Deep Noise Suppression Challenge Task 2
+     `2021` <1 place>, Interspeech 2021 Conferencing Speech Challenge task 1
+     `2021` <1 place>, Interspeech 2021 Conferencing Speech Challenge task 2
+     `2021` <1 place>, IEEE MLSP 2021 L3DAS21 Challenge task 1
+     `2021` <6 place>, Interspeech 2021 Deep Noise Suppression Challenge task 1
+     `2021` <3 place>, Interspeech 2021 Acoustic Echo Cancellation Challenge
      `2015` Elsevier Computers and Electrical Engineering Outstanding Reviewer Award
      `2015` Elsevier Computers and Electrical Engineering Outstanding Reviewer Award
      `2013` Chinese Government Scholarship for Outstanding Self-financed Students Studying Abroad
