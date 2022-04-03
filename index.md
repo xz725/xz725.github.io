@@ -14,7 +14,7 @@
 
 `- Mar. 2013 - May. 2016`
 # Dolby Laboratories
-<Senior_Researcher>
+(Senior_Researcher)
 ```
 
 ## Education
