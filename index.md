@@ -1,53 +1,40 @@
 ## Employment
 ```markdown
-- Sep. 2019 - present
+`- Sep. 2019 - present`
 # Kuaishou Technology
-`Audio Research Engineer (TL)`
+Audio Research Engineer (TL)
 
-- Jan. 2018 - Aug. 2019
+`- Jan. 2018 - Aug. 2019`
 # Tibet WiseBridge Asset Management Corporation
 Director of Investment
 
-- Jun. 2016 - Dec. 2017
-Yinkman (Beijing) Technology Co., Ltd
+`- Jun. 2016 - Dec. 2017`
+# Yinkman (Beijing) Technology Co., Ltd
 Principal Researcher
 
-- Mar. 2013 - May. 2016
-Dolby Laboratories
+`- Mar. 2013 - May. 2016`
+# Dolby Laboratories
 Senior Researcher
 ```
 
-- **Sep. 2019 - present**<br>
-**Kuaishou Technology**<br>
-Audio Research Engineer (TL)<br>
-
-- **Jan. 2018 - Aug. 2019**<br>
-**Tibet WiseBridge Asset Management Corporation**<br>
-Director of Investment<br>
-
-- **Jun. 2016 - Dec. 2017**<br>
-**Yinkman (Beijing) Technology Co., Ltd**<br>
-Principal Researcher<br>
-
-- **Mar. 2013 - May. 2016**<br>
-**Dolby Laboratories** <br>
-Senior Researcher<br>
-
+```markdown
 ## Education
-- **Aug. 2009 - Dec. 2013** <br>
-**University of Wollongong, Australia** <br> 
-Doctor of Philosophy <br>
+`- Aug. 2009 - Dec. 2013`
+# University of Wollongong, Australia
+Doctor of Philosophy
 -- Dissertation Topic: “Soundfield Navigation: Separation, Compression and Transmission” [pdf](https://ro.uow.edu.au/theses/3943/) <br>
 -- Advisor: Prof. Christian Ritz and Prof. Jiangtao Xi <br>
 
-- **Sep. 2005 - Jun. 2009**<br>
-**Beijing University of Posts and Telecommunications, China**<br>
+`- Sep. 2005 - Jun. 2009`
+# Beijing University of Posts and Telecommunications, China<br>
 B.A., Engineering, (Joint Program)<br>
-**Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009**<br>
+Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009<br>
 B.A., Engineering, (Joint Program)<br>
+```
 
 ## Honors and Awards
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022**&nbsp;&nbsp;&nbsp;1st place, Interspeech 2022 Deep Audio PLC Challenge<br>
+```markdown
+2022 1st place, Interspeech 2022 Deep Audio PLC Challenge<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022**&nbsp;&nbsp;&nbsp;2nd place, Interspeech 2022 Conferencing Speech Challenge<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022**&nbsp;&nbsp;&nbsp;2nd place, ICASSP 2022 Acoustic Echo Cancellation Challenge<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022**&nbsp;&nbsp;&nbsp;4th place, ICASSP 2022 Deep Noise Suppression Challenge Task 2<br>
@@ -59,8 +46,9 @@ B.A., Engineering, (Joint Program)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2015**&nbsp;&nbsp;&nbsp;Elsevier Computers and Electrical Engineering Outstanding Reviewer Award<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2015**&nbsp;&nbsp;&nbsp;Elsevier Computers and Electrical Engineering Outstanding Reviewer Award<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2013**&nbsp;&nbsp;&nbsp;Chinese Government Scholarship for Outstanding Self-financed Students Studying Abroad<br>
-**2010-2012** &nbsp;&nbsp;&nbsp;International Postgraduate Tuition Award<br>
+2010-2012 International Postgraduate Tuition Award<br>
 **2010-2012** &nbsp;&nbsp;&nbsp;Australian Research Council - Spatial Audio Signal Processing Scholarship<br>
+```
 
 ## Publications
 ### Journal
