@@ -52,7 +52,7 @@ Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
 
 ## Publications
 ### Journal
-**1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang `“Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction,”` Applied Sciences, vol. 12, no. 4, Art. no. 4, Jan. 2022. (_IF = 2.679, SCI Q2_)<br>
+**1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction,” `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. `(_IF = 2.679, SCI Q2_)`<br>
 **2.** Jia, Maoshen, Jundai Sun, and Xiguang Zheng ”Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity” Applied Sciences, pp. 8, no. 1: 123., 2018. (_IF = 2.736, SCI Q2_)<br>
 **3.** Jia, Maoshen, Jiaming Zhang, Changchun Bao, and Xiguang Zheng. ”A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity” Applied Sciences, pp. 7, no.12: 1301., 2017. (_IF = 2.736, SCI Q2_)<br>
 **4.** X. Zheng, C Ritz, and J. Xi, ”Encoding and communicating navigable speech soundfields,” Multimedia Tools and Applications, pp. 1-22, 2015. (_IF = 2.757, SCI Q2, CCF: C_)<br>
