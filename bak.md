@@ -83,10 +83,40 @@ Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
 **14.** X. Zheng and C. Ritz, “**Hybrid FEC and MDC models for low-delay packet-loss recovery**”, in `5th International Conference on Signal Processing and Communication Systems (ICSPCS)`, 2011, pp.1–6. <br>
 **15.** X. Zheng and C. Ritz, “**Compression of navigable speech soundfield zones**”, in `Multimedia Signal Processing (MMSP)`, 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.<br>
 
-### International Patents
-**1**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "**Reverberation generation for headphone virtualization**", `US10750306B2`, granted on 2020.
-**2**.G. MA, X. Zheng C. Zhang and X. Sun, "**User experience oriented audio signal processing**", `US10356524B2`, granted on 2019.
-**3**.G. MA and X. Zheng, "**Combined active noise cancellation and noise compensation in headphone**", `US9911404B2`, granted on 2018.
-**4**.G. MA, X. Zheng and C. Brown, "**Modeling a frequency response characteristic of an electro-acoustic transducer**", `US10038961B2`, granted on 2018.
-**5**.G. MA, X. Zheng and C. Brown, "**Enhancing intelligibility of speech content in an audio signal**", `US10096329B2`, granted on 2018.
-**6**.G. MA and X. ZHENG, “**Audio signal loudness control**”, `US10594283B2`, granted on 2020.
+
+
+You can use the [editor on GitHub](https://github.com/xz725/xz725.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xz725/xz725.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
