@@ -2,7 +2,7 @@
 ```markdown
 `- Sep. 2019 - present`
 # Kuaishou Technology
-<Audio_Research_Engineer_(TL)>
+<Audio_Research_Engineer> (TL)
 
 `- Jan. 2018 - Aug. 2019`
 # Tibet WiseBridge Asset Management Corporation
@@ -14,7 +14,7 @@
 
 `- Mar. 2013 - May. 2016`
 # Dolby Laboratories
-(Senior_Researcher)
+<Senior_Researcher>
 ```
 
 ## Education
