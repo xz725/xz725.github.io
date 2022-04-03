@@ -34,7 +34,7 @@ Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
 
 ## Honors and Awards
 ```markdown
-     `2022` <1 place, Interspeech 2022 Deep Audio PLC Challenge
+     `2022` <1 place>, Interspeech 2022 Deep Audio PLC Challenge
      `2022` <2 place>, Interspeech 2022 Conferencing Speech Challenge
      `2022` <2 place>, ICASSP 2022 Acoustic Echo Cancellation Challenge
      `2022` <4 place>, ICASSP 2022 Deep Noise Suppression Challenge Task 2
