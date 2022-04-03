@@ -1,15 +1,11 @@
-# Xiguang Zheng
-Ph.D.<br>
-Senior Member, IEEE<br>
-
 ## Employment
 ```markdown
 - Sep. 2019 - present
 # Kuaishou Technology
-Audio Research Engineer (TL)
+`Audio Research Engineer (TL)`
 
 - Jan. 2018 - Aug. 2019
-Tibet WiseBridge Asset Management Corporation
+# Tibet WiseBridge Asset Management Corporation
 Director of Investment
 
 - Jun. 2016 - Dec. 2017
