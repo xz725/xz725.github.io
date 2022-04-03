@@ -35,14 +35,14 @@ Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
 ## Honors and Awards
 ```markdown
      `2022` <1st place>, Interspeech 2022 Deep Audio PLC Challenge
-     `2022` 2nd place, Interspeech 2022 Conferencing Speech Challenge
-     `2022` 2nd place, ICASSP 2022 Acoustic Echo Cancellation Challenge
-     `2022` 4th place, ICASSP 2022 Deep Noise Suppression Challenge Task 2
-     `2021` 1st place, Interspeech 2021 Conferencing Speech Challenge task 1
-     `2021` 1st place, Interspeech 2021 Conferencing Speech Challenge task 2
-     `2021` 1st place, IEEE MLSP 2021 L3DAS21 Challenge task 1
-     `2021` 6th place, Interspeech 2021 Deep Noise Suppression Challenge task 1
-     `2021` 3rd place, Interspeech 2021 Acoustic Echo Cancellation Challenge
+     `2022` <2nd place>, Interspeech 2022 Conferencing Speech Challenge
+     `2022` <2nd place>, ICASSP 2022 Acoustic Echo Cancellation Challenge
+     `2022` <4th place>, ICASSP 2022 Deep Noise Suppression Challenge Task 2
+     `2021` <1st place>, Interspeech 2021 Conferencing Speech Challenge task 1
+     `2021` <1st place>, Interspeech 2021 Conferencing Speech Challenge task 2
+     `2021` <1st place>, IEEE MLSP 2021 L3DAS21 Challenge task 1
+     `2021` <6th place>, Interspeech 2021 Deep Noise Suppression Challenge task 1
+     `2021` <3rd place>, Interspeech 2021 Acoustic Echo Cancellation Challenge
      `2015` Elsevier Computers and Electrical Engineering Outstanding Reviewer Award
      `2015` Elsevier Computers and Electrical Engineering Outstanding Reviewer Award
      `2013` Chinese Government Scholarship for Outstanding Self-financed Students Studying Abroad
@@ -52,7 +52,7 @@ Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
 
 ## Publications
 ### Journal
-**1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction,” Applied Sciences, vol. 12, no. 4, Art. no. 4, Jan. 2022. (_IF = 2.679, SCI Q2_)<br>
+**1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang `“Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction,”` Applied Sciences, vol. 12, no. 4, Art. no. 4, Jan. 2022. (_IF = 2.679, SCI Q2_)<br>
 **2.** Jia, Maoshen, Jundai Sun, and Xiguang Zheng ”Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity” Applied Sciences, pp. 8, no. 1: 123., 2018. (_IF = 2.736, SCI Q2_)<br>
 **3.** Jia, Maoshen, Jiaming Zhang, Changchun Bao, and Xiguang Zheng. ”A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity” Applied Sciences, pp. 7, no.12: 1301., 2017. (_IF = 2.736, SCI Q2_)<br>
 **4.** X. Zheng, C Ritz, and J. Xi, ”Encoding and communicating navigable speech soundfields,” Multimedia Tools and Applications, pp. 1-22, 2015. (_IF = 2.757, SCI Q2, CCF: C_)<br>
