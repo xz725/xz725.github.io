@@ -84,9 +84,9 @@ Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
 **15.** X. Zheng and C. Ritz, “**Compression of navigable speech soundfield zones**”, in `Multimedia Signal Processing (MMSP)`, 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.<br>
 
 ### International Patents
-**1**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "**Reverberation generation for headphone virtualization**", `US10750306B2`, granted on 2020.
-**2**.G. MA, X. Zheng C. Zhang and X. Sun, "**User experience oriented audio signal processing**", `US10356524B2`, granted on 2019.
-**3**.G. MA and X. Zheng, "**Combined active noise cancellation and noise compensation in headphone**", `US9911404B2`, granted on 2018.
-**4**.G. MA, X. Zheng and C. Brown, "**Modeling a frequency response characteristic of an electro-acoustic transducer**", `US10038961B2`, granted on 2018.
-**5**.G. MA, X. Zheng and C. Brown, "**Enhancing intelligibility of speech content in an audio signal**", `US10096329B2`, granted on 2018.
-**6**.G. MA and X. ZHENG, “**Audio signal loudness control**”, `US10594283B2`, granted on 2020.
+**1**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "**Reverberation generation for headphone virtualization**", `US10750306B2`, granted on 2020.<br>
+**2**.G. MA, X. Zheng C. Zhang and X. Sun, "**User experience oriented audio signal processing**", `US10356524B2`, granted on 2019.<br>
+**3**.G. MA and X. Zheng, "**Combined active noise cancellation and noise compensation in headphone**", `US9911404B2`, granted on 2018.<br>
+**4**.G. MA, X. Zheng and C. Brown, "**Modeling a frequency response characteristic of an electro-acoustic transducer**", `US10038961B2`, granted on 2018.<br>
+**5**.G. MA, X. Zheng and C. Brown, "**Enhancing intelligibility of speech content in an audio signal**", `US10096329B2`, granted on 2018.<br>
+**6**.G. MA and X. ZHENG, “**Audio signal loudness control**”, `US10594283B2`, granted on 2020.<br>
