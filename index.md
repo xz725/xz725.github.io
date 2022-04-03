@@ -28,7 +28,7 @@
 `Sep. 2005 - Jun. 2009`
 # Beijing University of Posts and Telecommunications, China
 <Bachelor_of_Engineering> (Joint Program)
-Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
+# Queen Mary University of London, United Kingdom
 <Bachelor_of_Engineering> (Joint Program)
 ```
 
