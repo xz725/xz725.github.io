@@ -22,7 +22,7 @@
 `- Aug. 2009 - Dec. 2013`
 # University of Wollongong, Australia
 <Doctor_of_Philosophy>
--- Dissertation Topic: “Soundfield Navigation: Separation, Compression and Transmission” [pdf](https://ro.uow.edu.au/theses/3943/) <br>
+-- Dissertation Topic: “Soundfield Navigation: Separation, Compression and Transmission”<br>
 -- Advisor: Prof. Christian Ritz and Prof. Jiangtao Xi
 
 `- Sep. 2005 - Jun. 2009`
