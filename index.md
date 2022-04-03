@@ -17,24 +17,24 @@ Principal Researcher
 Senior Researcher
 ```
 
-```markdown
 ## Education
+```markdown
 `- Aug. 2009 - Dec. 2013`
 # University of Wollongong, Australia
-Doctor of Philosophy
+<Doctor of Philosophy>
 -- Dissertation Topic: “Soundfield Navigation: Separation, Compression and Transmission” [pdf](https://ro.uow.edu.au/theses/3943/) <br>
 -- Advisor: Prof. Christian Ritz and Prof. Jiangtao Xi <br>
 
 `- Sep. 2005 - Jun. 2009`
 # Beijing University of Posts and Telecommunications, China<br>
-B.A., Engineering, (Joint Program)<br>
+<B.A., Engineering, (Joint Program)>
 Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009<br>
 B.A., Engineering, (Joint Program)<br>
 ```
 
 ## Honors and Awards
 ```markdown
-2022 1st place, Interspeech 2022 Deep Audio PLC Challenge<br>
+     2022 1st place, Interspeech 2022 Deep Audio PLC Challenge<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022**&nbsp;&nbsp;&nbsp;2nd place, Interspeech 2022 Conferencing Speech Challenge<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022**&nbsp;&nbsp;&nbsp;2nd place, ICASSP 2022 Acoustic Echo Cancellation Challenge<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2022**&nbsp;&nbsp;&nbsp;4th place, ICASSP 2022 Deep Noise Suppression Challenge Task 2<br>
