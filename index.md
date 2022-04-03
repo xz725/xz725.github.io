@@ -1,31 +1,31 @@
 ## Employment
 ```markdown
-`- Sep. 2019 - present`
+`Sep. 2019 - present`
 # Kuaishou Technology
 <Audio_Research_Engineer> (TL)
 
-`- Jan. 2018 - Aug. 2019`
+`Jan. 2018 - Aug. 2019`
 # Tibet WiseBridge Asset Management Corporation
 <Director_of_Investment>
 
-`- Jun. 2016 - Dec. 2017`
+`Jun. 2016 - Dec. 2017`
 # Yinkman (Beijing) Technology Co., Ltd
 <Principal_Researcher>
 
-`- Mar. 2013 - May. 2016`
+`Mar. 2013 - May. 2016`
 # Dolby Laboratories
 <Senior_Researcher>
 ```
 
 ## Education
 ```markdown
-`- Aug. 2009 - Dec. 2013`
+`Aug. 2009 - Dec. 2013`
 # University of Wollongong, Australia
 <Doctor_of_Philosophy>
 -- Dissertation Topic: “Soundfield Navigation: Separation, Compression and Transmission”<br>
 -- Advisor: Prof. Christian Ritz and Prof. Jiangtao Xi
 
-`- Sep. 2005 - Jun. 2009`
+`Sep. 2005 - Jun. 2009`
 # Beijing University of Posts and Telecommunications, China
 <Bachelor_of_Engineering> (Joint Program)
 Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
