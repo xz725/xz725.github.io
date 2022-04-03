@@ -52,18 +52,18 @@ Queen Mary University of London, United Kingdom Sep. 2005 - Jun. 2009
 
 ## Publications
 ### Journal
-**1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction,” `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. `(IF = 2.679, SCI Q2)`<br>
-**2.** Jia, Maoshen, Jundai Sun, and Xiguang Zheng ”Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity” Applied Sciences, pp. 8, no. 1: 123., 2018. `(IF = 2.736, SCI Q2)`<br>
-**3.** Jia, Maoshen, Jiaming Zhang, Changchun Bao, and Xiguang Zheng. ”A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity” Applied Sciences, pp. 7, no.12: 1301., 2017. `(IF = 2.736, SCI Q2)`<br>
-**4.** X. Zheng, C Ritz, and J. Xi, ”Encoding and communicating navigable speech soundfields,” Multimedia Tools and Applications, pp. 1-22, 2015. `(IF = 2.757, SCI Q2, CCF: C)`<br>
-**5.** M. Jia, Z.Yang, C. Bao, X. Zheng and C. Ritz, ”Encoding Multiple Audio Objects using Intra-object Sparsity,” IEEE Transactions on Audio, Speech and Language Processing, vol. 23, no. 6, pp.1082-1095, Jun. 2015. `(IF = 3.919, SCI Q1, CCF: B)`<br>
-**6.** B. Cheng, C. Ritz, I. Burnett, and X. Zheng ”A General Compression Approach to Multi-Channel Three-Dimensional Audio,” IEEE Transactions on Audio, Speech and Language Processing, August, 2013. `(IF = 3.919, SCI Q1, CCF: B)`<br>
-**7.** X. Zheng, C. Ritz, and J. Xi, ”Collaborative Blind Source Separation Using Location Informed Spatial Microphones,” IEEE Signal Processing Letters, Jan, 2013. `(IF = 3.109, SCI Q2, CCF: C)`<br>
-**8.** X. Zheng, C. Ritz, and J. Xi, ”Encoding Navigable Speech Sources: A Psychoacoustic-based Analysis-By-Synthesis Approach,” IEEE Transactions on Audio, Speech and Language Processing, Jan, 2013. `(IF = 3.919, SCI Q1, CCF: B)`<br>
-**9.** C. H. Ritz, M. Shujau, X. Zheng, B. Cheng, and E. C. and I. S. Burnett, “Backward Compatible Spatialized Teleconferencing based on Squeezed Recordings,” in Advances in Sound Localization, Intech, Apr. 2011. `(Book Chapter)`<br>
-**10.** J. Huang, L. Wang, M. Jiang and X. Zheng, “Interferon Inducible Protein 27 Computational Network Construction and Comparison between the Frontal Cortex of HIV Encephalitis (HIVE) and HIVE-Control Patients,” The Open Genomics Journal, vol. 3, no. 1, pp. 1–8, Sep. 2010. <br>
-**11.** L. Wang, J. Huang, M. Jiang, and X. Zheng, “AFP computational secreted network construction and analysis between human hepatocellular carcinoma (HCC) and no-tumor hepatitis/cirrhotic liver tissues,” Tumour Biol., vol. 31, no. 5, pp. 417–425, Oct. 2010. `(IF = 3.526, SCI Q2)`<br>
-**12.** L. Wang, Y. Sun, M. Jiang, and X. Zheng, “Integrative Decomposition Procedure and Kappa Statistics for the Distinguished Single Molecular Network Construction and Analysis,” Journal of Biomedicine and Biotechnology, vol. 2009, pp. 1–7, 2009. <br>
+**1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “**Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction**”, `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. `(IF = 2.679, SCI Q2)`<br>
+**2.** Jia, Maoshen, Jundai Sun, and Xiguang Zheng ”**Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity**”, `Applied Sciences`, pp. 8, no. 1: 123., 2018. `(IF = 2.736, SCI Q2)`<br>
+**3.** Jia, Maoshen, Jiaming Zhang, Changchun Bao, and Xiguang Zheng. ”**A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity**”, `Applied Sciences`, pp. 7, no.12: 1301., 2017. `(IF = 2.736, SCI Q2)`<br>
+**4.** X. Zheng, C Ritz, and J. Xi, ”**Encoding and communicating navigable speech soundfields**”, `Multimedia Tools and Applications`, pp. 1-22, 2015. `(IF = 2.757, SCI Q2, CCF: C)`<br>
+**5.** M. Jia, Z.Yang, C. Bao, X. Zheng and C. Ritz, ”**Encoding Multiple Audio Objects using Intra-object Sparsity**”, `IEEE Transactions on Audio, Speech and Language Processing`, vol. 23, no. 6, pp.1082-1095, Jun. 2015. `(IF = 3.919, SCI Q1, CCF: B)`<br>
+**6.** B. Cheng, C. Ritz, I. Burnett, and X. Zheng ”**A General Compression Approach to Multi-Channel Three-Dimensional Audio**”, `IEEE Transactions on Audio, Speech and Language Processing`, August, 2013. `(IF = 3.919, SCI Q1, CCF: B)`<br>
+**7.** X. Zheng, C. Ritz, and J. Xi, ”**Collaborative Blind Source Separation Using Location Informed Spatial Microphones**”, `IEEE Signal Processing Letters`, Jan, 2013. `(IF = 3.109, SCI Q2, CCF: C)`<br>
+**8.** X. Zheng, C. Ritz, and J. Xi, ”**Encoding Navigable Speech Sources: A Psychoacoustic-based Analysis-By-Synthesis Approach**”, `IEEE Transactions on Audio, Speech and Language Processing`, Jan, 2013. `(IF = 3.919, SCI Q1, CCF: B)`<br>
+**9.** C. H. Ritz, M. Shujau, X. Zheng, B. Cheng, and E. C. and I. S. Burnett, “**Backward Compatible Spatialized Teleconferencing based on Squeezed Recordings**”, in `Advances in Sound Localization`, Intech, Apr. 2011. (Book Chapter)<br>
+**10.** J. Huang, L. Wang, M. Jiang and X. Zheng, “**Interferon Inducible Protein 27 Computational Network Construction and Comparison between the Frontal Cortex of HIV Encephalitis (HIVE) and HIVE-Control Patients**”, `The Open Genomics Journal`, vol. 3, no. 1, pp. 1–8, Sep. 2010. <br>
+**11.** L. Wang, J. Huang, M. Jiang, and X. Zheng, “**AFP computational secreted network construction and analysis between human hepatocellular carcinoma (HCC) and no-tumor hepatitis/cirrhotic liver tissues**”, `Tumour Biol.`, vol. 31, no. 5, pp. 417–425, Oct. 2010. `(IF = 3.526, SCI Q2)`<br>
+**12.** L. Wang, Y. Sun, M. Jiang, and X. Zheng, “**Integrative Decomposition Procedure and Kappa Statistics for the Distinguished Single Molecular Network Construction and Analysis**”, `Journal of Biomedicine and Biotechnolog`, vol. 2009, pp. 1–7, 2009. <br>
 
 
 ### Conference
