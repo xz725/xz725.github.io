@@ -44,7 +44,6 @@
      `2021` <6 place>, Interspeech 2021 Deep Noise Suppression Challenge task 1
      `2021` <3 place>, Interspeech 2021 Acoustic Echo Cancellation Challenge
      `2015` Elsevier Computers and Electrical Engineering Outstanding Reviewer Award
-     `2015` Elsevier Computers and Electrical Engineering Outstanding Reviewer Award
      `2013` Chinese Government Scholarship for Outstanding Self-financed Students Studying Abroad
 `2010-2012` International Postgraduate Tuition Award
 `2010-2012` Australian Research Council - Spatial Audio Signal Processing Scholarship
