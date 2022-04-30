@@ -51,6 +51,7 @@
 
 ## Publications
 ### Journal
+```markdown
 **1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “**Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction**”, `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. **(IF = 2.679, SCI Q2)**<br>
 **2.** Jia, Maoshen, Jundai Sun, and Xiguang Zheng ”**Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity**”, `Applied Sciences`, pp. 8, no. 1: 123., 2018. **(IF = 2.736, SCI Q2)**<br>
 **3.** Jia, Maoshen, Jiaming Zhang, Changchun Bao, and Xiguang Zheng. ”**A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity**”, `Applied Sciences`, pp. 7, no.12: 1301., 2017. **(IF = 2.736, SCI Q2)**<br>
@@ -63,7 +64,7 @@
 **10.** J. Huang, L. Wang, M. Jiang and X. Zheng, “**Interferon Inducible Protein 27 Computational Network Construction and Comparison between the Frontal Cortex of HIV Encephalitis (HIVE) and HIVE-Control Patients**”, `The Open Genomics Journal`, vol. 3, no. 1, pp. 1–8, Sep. 2010. <br>
 **11.** L. Wang, J. Huang, M. Jiang, and X. Zheng, “**AFP computational secreted network construction and analysis between human hepatocellular carcinoma (HCC) and no-tumor hepatitis/cirrhotic liver tissues**”, `Tumour Biol.`, vol. 31, no. 5, pp. 417–425, Oct. 2010. **(IF = 3.526, SCI Q2)**<br>
 **12.** L. Wang, Y. Sun, M. Jiang, and X. Zheng, “**Integrative Decomposition Procedure and Kappa Statistics for the Distinguished Single Molecular Network Construction and Analysis**”, `Journal of Biomedicine and Biotechnolog`, vol. 2009, pp. 1–7, 2009. <br>
-
+```
 
 ### Conference
 **1**. L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “**MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION**”, in ICME 2022 , in press. (CCF:B)
