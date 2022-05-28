@@ -3,7 +3,7 @@
 ```markdown
 `Sep. 2019 - present`
 # Kuaishou Technology
-<Audio_Research_Engineer> (TL)
+<Audio_Research_Engineer> (TL) 
 
 `Jan. 2018 - Aug. 2019`
 # Tibet WiseBridge Asset Management Corporation
