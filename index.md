@@ -1,3 +1,4 @@
+[中文](resources/chn_lite.pdf)
 ## Employment
 ```markdown
 `Sep. 2019 - present`
