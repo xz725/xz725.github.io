@@ -1,4 +1,4 @@
-[中文](resources/chn.pdf)
+[](resources/chn.pdf)
 ## Employment
 ```markdown
 `Sep. 2019 - present`
