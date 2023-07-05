@@ -39,6 +39,7 @@ Bachelor of Engineering (Joint Program)
 
 ## Honors and Awards
 | **Year** | **Awards** |
+|--------------|-----------------------|
 |2022|2 ICASSP 2023 Acoustic Echo Cancellation Challenge|
 |2022|1 Interspeech 2022 Deep Audio PLC Challenge|
 |2022|2 Interspeech 2022 Conferencing Speech Challenge|
