@@ -1,3 +1,3 @@
 ---
-title: No News is a GOOD News
+title: no news is a good news
 ---
