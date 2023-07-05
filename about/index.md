@@ -57,7 +57,7 @@ Bachelor of Engineering (Joint Program)
 2010-2012 International Postgraduate Tuition Award
 2010-2012 Australian Research Council - Spatial Audio Signal Processing Scholarship
 
-| **Features** | **Editable in Texts** | **Export to PDF** |
+| **Year** | **Ranking** | **Challenge** |
 |--------------|-----------------------|-------------------|
 | Basic Styles | ✓                     | ✓                 |
 | Footnotes    | ✓                     | ✓                 |
