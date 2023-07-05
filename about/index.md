@@ -57,6 +57,14 @@ Bachelor of Engineering (Joint Program)
 2010-2012 International Postgraduate Tuition Award
 2010-2012 Australian Research Council - Spatial Audio Signal Processing Scholarship
 
+| **Features** | **Editable in Texts** | **Export to PDF** | **Export to HTML** |
+|--------------|-----------------------|-------------------|--------------------|
+| Basic Styles | ✓                     | ✓                 | ✓                  |
+| Footnotes    | ✓                     | ✓                 | ✓                  |
+| Images       | ✓                     | ✓                 | ✓                  |
+| Tables       | ✓                     | ✓                 | ✓                  |
+
+
 ## Publications
 ### Journal
 **1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction”, `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. (IF = 2.679, SCI Q2)<br>
