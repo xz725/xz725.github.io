@@ -1,5 +1,5 @@
 ---
-title: Typesetting Math in Texts
+title: Projects
 ---
 
 Basic math
