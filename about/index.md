@@ -38,8 +38,8 @@ Bachelor of Engineering (Joint Program)
 ```
 
 ## Honors and Awards
-| **Features** | **Editable in Texts** | **Export to PDF** |
-|--------------|-----------------------|-------------------|
+| **Features** | **Editable in Texts** | **Export to PDF**                               |
+|--------------|-----------------------|-------------------------------------------------|
 | 2022         | 2 place               | ICASSP 2023 Acoustic Echo Cancellation Challenge| 
 
 2022 <2 place>, ICASSP 2023 Acoustic Echo Cancellation Challenge
