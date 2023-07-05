@@ -59,7 +59,7 @@ Bachelor of Engineering (Joint Program)
 
 | **Year** | **Ranking** | **Challenge** |
 |--------------|-----------------------|-------------------|
-| Basic Styles | ✓                     | ✓                 |
+| 2022 | 2|ICASSP 2023 Acoustic Echo Cancellation Challenge|
 | Footnotes    | ✓                     | ✓                 |
 | Images       | ✓                     | ✓                 |
 | Tables       | ✓                     | ✓                 |
