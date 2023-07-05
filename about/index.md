@@ -5,21 +5,21 @@ title: About
 
 ## Employment
 ```markdown
-`Sep. 2019 - present`
-# Kuaishou Technology
-<Audio_Research_Engineer> (TL) 
+Sep. 2019 - present
+Kuaishou Technology
+Audio Research Engineer (Tech Lead) 
 
-`Jan. 2018 - Aug. 2019`
-# Tibet WiseBridge Asset Management Corporation
-<Director_of_Investment> (Partner)
+Jan. 2018 - Aug. 2019
+Tibet WiseBridge Asset Management Corporation
+Director of Investment (Partner)
 
-`Jun. 2016 - Dec. 2017`
-# Yinkman (Beijing) Technology Co., Ltd
-<Principal_Researcher> (Partner)
+Jun. 2016 - Dec. 2017
+Yinkman (Beijing) Technology Co., Ltd
+Principal_Researcher (Partner)
 
-`Mar. 2013 - May. 2016`
-# Dolby Laboratories
-<Senior_Researcher>
+Mar. 2013 - May. 2016
+Dolby Laboratories
+Senior Researcher
 ```
 
 ## Education
