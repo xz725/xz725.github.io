@@ -1,12 +1,12 @@
-title:              Blog
-tagline:            on GitHub Pages
+title:              Xiguang Zheng (郑羲光)
+tagline:            
 description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+url:                http://xz725.github.io
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  name:             Xiguang Zheng
+  url:              
+  email:            xzhen@ieee.org
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
