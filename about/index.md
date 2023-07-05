@@ -4,23 +4,23 @@ title: About
 ---
 
 ## Employment
-```markdown
-09.2019 - present
-Kuaishou Technology
-Audio Research Engineer (Tech Lead) 
 
-01.2018 - 08.2019
-Tibet WiseBridge Asset Management Corporation
-Director of Investment (Partner)
+**09.2019 - present**<br>
+Kuaishou Technology<br>
+Audio Research Engineer (Tech Lead) <br>
 
-06.2016 - 12.2017
-Yinkman (Beijing) Technology Co., Ltd
-Principal_Researcher (Partner)
+**01.2018 - 08.2019**<br>
+Tibet WiseBridge Asset Management Corporation<br>
+Director of Investment (Partner)<br>
 
-03.2013 - 05.2016
-Dolby Laboratories
-Senior Researcher
-```
+**06.2016 - 12.2017**<br>
+Yinkman (Beijing) Technology Co., Ltd<br>
+Principal_Researcher (Partner)<br>
+
+**03.2013 - 05.2016**<br>
+Dolby Laboratories<br>
+Senior Researcher<br>
+
 
 ## Education
 ```markdown
@@ -38,7 +38,10 @@ Bachelor of Engineering (Joint Program)
 ```
 
 ## Honors and Awards
-```markdown
+| **Features** | **Editable in Texts** | **Export to PDF** |
+|--------------|-----------------------|-------------------|
+| 2022         | 2 place               | ICASSP 2023 Acoustic Echo Cancellation Challenge| 
+
 2022 <2 place>, ICASSP 2023 Acoustic Echo Cancellation Challenge
 2022 <1 place>, Interspeech 2022 Deep Audio PLC Challenge
 2022 <2 place>, Interspeech 2022 Conferencing Speech Challenge
@@ -53,7 +56,6 @@ Bachelor of Engineering (Joint Program)
 2013 Chinese Government Scholarship for Outstanding Self-financed Students Studying Abroad
 2010-2012 International Postgraduate Tuition Award
 2010-2012 Australian Research Council - Spatial Audio Signal Processing Scholarship
-```
 
 ## Publications
 ### Journal
