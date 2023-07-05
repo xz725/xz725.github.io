@@ -38,29 +38,26 @@ Bachelor of Engineering (Joint Program)
 ```
 
 ## Honors and Awards
-| **Features** | **Editable in Texts** | **Export to PDF**                               |
-|--------------|-----------------------|-------------------------------------------------|
-| 2022         | 2 place               | ICASSP 2023 Acoustic Echo Cancellation Challenge| 
-
-2022 <2 place>, ICASSP 2023 Acoustic Echo Cancellation Challenge
-2022 <1 place>, Interspeech 2022 Deep Audio PLC Challenge
-2022 <2 place>, Interspeech 2022 Conferencing Speech Challenge
-2022 <2 place>, ICASSP 2022 Acoustic Echo Cancellation Challenge
-2022 <4 place>, ICASSP 2022 Deep Noise Suppression Challenge Task 2
-2021 <1 place>, Interspeech 2021 Conferencing Speech Challenge task 1
-2021 <1 place>, Interspeech 2021 Conferencing Speech Challenge task 2
-2021 <1 place>, IEEE MLSP 2021 L3DAS21 Challenge task 1
-2021 <6 place>, Interspeech 2021 Deep Noise Suppression Challenge task 1
-2021 <3 place>, Interspeech 2021 Acoustic Echo Cancellation Challenge
-2015 Elsevier Computers and Electrical Engineering Outstanding Reviewer Award
-2013 Chinese Government Scholarship for Outstanding Self-financed Students Studying Abroad
-2010-2012 International Postgraduate Tuition Award
-2010-2012 Australian Research Council - Spatial Audio Signal Processing Scholarship
+| **Year** | **Awards** |
+|2022|2 ICASSP 2023 Acoustic Echo Cancellation Challenge|
+|2022|1 Interspeech 2022 Deep Audio PLC Challenge|
+|2022|2 Interspeech 2022 Conferencing Speech Challenge|
+|2022|2 ICASSP 2022 Acoustic Echo Cancellation Challenge|
+|2022|4 ICASSP 2022 Deep Noise Suppression Challenge Task 2|
+|2021|1 Interspeech 2021 Conferencing Speech Challenge task 1|
+|2021|1 Interspeech 2021 Conferencing Speech Challenge task 2|
+|2021|1 IEEE MLSP 2021 L3DAS21 Challenge task 1|
+|2021|6 Interspeech 2021 Deep Noise Suppression Challenge task 1|
+|2021|3 Interspeech 2021 Acoustic Echo Cancellation Challenge|
+|2015|Elsevier Computers and Electrical Engineering Outstanding Reviewer Award|
+|2013|Chinese Government Scholarship for Outstanding Self-financed Students Studying Abroad|
+|2010-2012|International Postgraduate Tuition Award|
+|2010-2012|Australian Research Council - Spatial Audio Signal Processing Scholarship|
 
 | **Year** | **Ranking** | **Challenge** |
 |--------------|-----------------------|-------------------|
-| 2022 | 2|ICASSP 2023 Acoustic Echo Cancellation Challenge|
-| Footnotes    | ✓                     | ✓                 |
+| 2023 | 2|ICASSP 2023 Acoustic Echo Cancellation Challenge|
+| 2022 | ✓                     | ✓                 |
 | Images       | ✓                     | ✓                 |
 | Tables       | ✓                     | ✓                 |
 
