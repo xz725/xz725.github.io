@@ -8,3 +8,5 @@ your own use.
 
 Follow [instructions](<http://www.texts.io/support/0017/>) to publish your blog
 on GitHub Pages.
+
+![](<../resources/02_130663303-1-6.mp4>)
