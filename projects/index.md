@@ -12,3 +12,7 @@ on GitHub Pages.
 <video width="320" height="240" controls>
   <source src="https://xz725.github.io/resources/02_130663303-1-6.mp4" type="video/mp4">
 </video>
+
+<video width="320" height="240" controls>
+  <source src="https://xz725.github.io/resources/02_130663303-1-6.mp4" type="video/mp4">
+</video>
