@@ -14,11 +14,11 @@ title: Projects
 #### [Headphone Virtualizer](<https://xz725.github.io/projects/headphone_virt>)
 ---------------------------------------------
 ## Music Understanding
-#### Beats Tracking
-#### Sytle Transfer
-#### Singing Voice Separation
+#### [Beats Tracking](<https://xz725.github.io/projects/beats_tracking>)
+#### [Style Transfer](<https://xz725.github.io/projects/style_transfer>)
+#### [Singing Voice Separation](<https://xz725.github.io/projects/singing_voice_separation>)
 ---------------------------------------------
 ## Generative Speech
-#### Voice Conversion
-#### Singing Voice Conversion[Singing Voice Conversion](<http://www.texts.io/support/0017/>) 
+#### [Voice Conversion](<https://xz725.github.io/projects/voice_conversion>)
+
 
