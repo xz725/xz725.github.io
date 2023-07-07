@@ -5,16 +5,13 @@ title: Projects
 
 ## Speech Enhancement
 #### [Noise Suppression and Dereverberation](<https://xz725.github.io/projects/noise_reduction/>) 
-##### RTC
-##### Short Video
-##### Personalized Speech Enhancement
 #### Bandwidth Extension
 #### Packet Loss Concealment
 #### Speech Beautifier
 ---------------------------------------------
 ## Audio Post-Processing
-#### Low-Complexity Soundfield Expansion
-#### Headphone Virtualizer
+#### [Low-Complexity Soundfield Expansion](<https://xz725.github.io/projects/soundfield_expansion>)
+#### [Headphone Virtualizer](<https://xz725.github.io/projects/headphone_virt>)
 ---------------------------------------------
 ## Music Understanding
 #### Beats Tracking

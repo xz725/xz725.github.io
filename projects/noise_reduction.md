@@ -13,7 +13,7 @@ title: Noise Suppression and Dereverberation
   <source src="https://xz725.github.io/resources/SE/DNS/GDNS/DNS_2.mov" type="video/mp4">
 </video>
 
-#### Street
+#### Other Conditions
 <video width="640" height="360" controls>
   <source src="https://xz725.github.io/resources/SE/DNS/GDNS/DNS_3.mov" type="video/mp4">
 </video>
@@ -25,7 +25,7 @@ title: Noise Suppression and Dereverberation
   <source src="https://xz725.github.io/resources/SE/DNS/GDNS/KY/before/moscow.mp4" type="video/mp4">
 </video>
 <video width="320" height="180" controls>
-  <source src="https://xz725.github.io/resources/SE/DNS/GDNS/KY/after/moscow.mp4" type="video/mp4">
+  <source src="https://xz725.github.io/resources/SE/DNS/GDNS/KY/after/moscow_deepns.mp4" type="video/mp4">
 </video>
 
 #### Before vs After
@@ -33,7 +33,7 @@ title: Noise Suppression and Dereverberation
   <source src="https://xz725.github.io/resources/SE/DNS/GDNS/KY/before/sydney.mp4" type="video/mp4">
 </video>
 <video width="320" height="180" controls>
-  <source src="https://xz725.github.io/resources/SE/DNS/GDNS/KY/after/sydney.mp4" type="video/mp4">
+  <source src="https://xz725.github.io/resources/SE/DNS/GDNS/KY/after/sydney_deepns.mp4" type="video/mp4">
 </video>
 
 ### KTV
