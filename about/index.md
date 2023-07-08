@@ -7,42 +7,40 @@ title: About
 ## 工作经历
 
 **09.2019 - 至今          快手科技**<br>
-`音频算法工程师（算法研究技术负责人）`'<br>
+`音频算法工程师（算法研究技术负责人）`<br>
 2019 年加入快手音视频团队，负责音频算法研发。从零开始建设音频算法研究组，目前落地了快
-手主站及多个应用的音频功能，包括语音降噪、音频分离、音频内容理解、音频多码率编码器、
-K 歌音效、人声美化及无参考语音、音频评测等方向。发表顶会论文近十篇，专利数十篇。获得
+手主站及多个应用的音频功能，包括语音降噪[语音降噪](<https://xz725.github.io/projects/noise_reduction/>)、[音频分离](<https://xz725.github.io/projects/singing_voice_separation/>)、[音频内容理解](<https://xz725.github.io/projects/beats_tracking/>)、[风格转换](<https://xz725.github.io/projects/style_transfer/>)、[变声]<https://xz725.github.io/projects/voice_conversion/>、音频多码率编码器、
+K歌音效、[音频后处理](<https://xz725.github.io/projects/soundfield_expansion/>)、人声美化及无参考语音、音频评测等方向。发表顶会论文近十篇，专利数十篇。获得
 数项国际顶会音频挑战赛冠军<br>
 
-**01.2018 - 08.2019**<br>
-**西藏至慧桥资产管理有限公司**<br>
-投资总监，合伙人<br>
+**01.2018 - 08.2019          西藏至慧桥资产管理有限公司**<br>
+`投资总监，合伙人`<br>
 2018 年作为合伙人加入至汇桥资管，主要负责基于数量化的交易算法研发。基于在时间序列预
 测、信号处理等方向的积累，结合金融投资理论，成功研发了市场中性的股票选股策略、指数择
 时策略、股指期货择时策略等。管理资金规模人民币 5000 万元。资管产品获得 2018 年中信期
 货全国私募实盘大赛，股票策略组第一名；2020 年 wind 三年期全国最强私募基金 FOF<br>
 
 **06.2016 - 12.2017          音曼（北京）科技有限公司**<br>
-首席研究员，合伙人<br>
+`首席研究员，合伙人`<br>
 2016 年作为联合创始人加入音曼科技 (获天津九安医疗旗下尚势资本千万级天使投资)。主要负
 责算法研究，知识产权，同时和 CEO 一起协调产品量产。成功研发音曼 OMNOS 回音壁音箱
 产品 (德国红点设计奖)、移动 KTV 核心 DSP 算法板、Ambisonic 声场麦克风等音频硬件产品，
 累计实现近千万销售额
 
 **03.2013 - 05.2016          杜比实验室**<br>
-高级研究员<br>
+`高级研究员`<br>
 2013 年在澳大利亚卧龙岗大学完成博士工作后，加入杜比实验室。作为杜比实验室全球最年轻的
 高级研究员，参与了杜比全景声在移动端落地的多个重点项目的算法研究及声学测量等工作。如
-DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile (全球第一
-个搭载杜比全景声的平板电脑:Lenovo Yoga 3) 等<br>
+DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/projects/headphone_virt/>)）、DOLBY ATOMS for Mobile (全球第一个搭载杜比全景声的平板电脑:Lenovo Yoga 3) 等<br>
 
 -------------------
 
 ## 学术兼职 
 
 **2019.07 - 至今          澳大利亚卧龙岗大学（University of Wollongong）**<br>
-荣誉高级研究员（Honorary Senior Research Fellow）<br>
+`荣誉高级研究员（Honorary Senior Research Fellow）`<br>
 **2021.11 - 至今          Institute of Electrical and Electronics Engineers (IEEE)** <br>
-高级会员（Senior Member）<br>
+`高级会员（Senior Member）`<br>
 
 -------------------
 
@@ -55,9 +53,9 @@ DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile
 
 **09.2005 - 06.2009**<br>
 **北京邮电大学**<br>
-**工学学士 (电信工程及管理专业，联合培养)**<br>
+工学学士 (电信工程及管理专业，联合培养)<br>
 **伦敦大学玛丽女王学院（Queen Mary University of London	）**<br>
-**工学学士 (电信工程及管理专业，联合培养)**<br>
+工学学士 (电信工程及管理专业，联合培养)<br>
 
 -------------------
 
@@ -97,7 +95,7 @@ DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile
 
 ## 会议文章
 **1**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in `Interspeech 2023`, in press. (CCF:B)<br>
-**2**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in `ICASSP 2023`, In press.(CCF:B)<br>
+**2**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, In press.(CCF:B)<br>
 **3**. N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, `in Interspeech 2022` , pp.585-589, 2022. (CCF:C)<br>
 **4**. L. Chen, X. Ren, X. Zhang, X. Zheng, C. Zhang, L. Guo, and B. Yu, “Impairment Representation Learning for Speech Quality Assessment”, in `Interspeech 2022` , pp.3323-3327, 2022. (CCF:C)<br>
 **5**. L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION”, in ICME 2022 , in press. (CCF:B)<br>
