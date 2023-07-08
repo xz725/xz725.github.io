@@ -2,83 +2,62 @@
 layout: page
 title: About
 ---
-[English](<https://xz725.github.io/about/about_en/>) 
 
-## 工作经历
+## Employment
 
-**09.2019 - 至今**<br>
-**快手科技**<br>
-音频算法工程师（算法研究技术负责人）<br>
-2019 年加入快手音视频团队，负责音频算法研发。从零开始建设音频算法研究组，目前落地了快
-手主站及多个应用的音频功能，包括语音降噪、音频分离、音频内容理解、音频多码率编码器、
-K 歌音效、人声美化及无参考语音、音频评测等方向。发表顶会论文近十篇，专利数十篇。获得
-数项国际顶会音频挑战赛冠军<br>
+**09.2019 - present**<br>
+Kuaishou Technology<br>
+Audio Research Engineer (Tech Lead) <br>
 
 **01.2018 - 08.2019**<br>
-**西藏至慧桥资产管理有限公司**<br>
-投资总监，合伙人<br>
-2018 年作为合伙人加入至汇桥资管，主要负责基于数量化的交易算法研发。基于在时间序列预
-测、信号处理等方向的积累，结合金融投资理论，成功研发了市场中性的股票选股策略、指数择
-时策略、股指期货择时策略等。管理资金规模人民币 5000 万元。资管产品获得 2018 年中信期
-货全国私募实盘大赛，股票策略组第一名；2020 年 wind 三年期全国最强私募基金 FOF<br>
+Tibet WiseBridge Asset Management Corporation<br>
+Director of Investment (Partner)<br>
 
 **06.2016 - 12.2017**<br>
-**音曼（北京）科技有限公司**<br>
-首席研究员，合伙人<br>
-2016 年作为联合创始人加入音曼科技 (获天津九安医疗旗下尚势资本千万级天使投资)。主要负
-责算法研究，知识产权，同时和 CEO 一起协调产品量产。成功研发音曼 OMNOS 回音壁音箱
-产品 (德国红点设计奖)、移动 KTV 核心 DSP 算法板、Ambisonic 声场麦克风等音频硬件产品，
-累计实现近千万销售额
+Yinkman (Beijing) Technology Co., Ltd<br>
+Principal_Researcher (Partner)<br>
 
 **03.2013 - 05.2016**<br>
-**杜比实验室**<br>
-高级研究员<br>
-2013 年在澳大利亚卧龙岗大学完成博士工作后，加入杜比实验室。作为杜比实验室全球最年轻的
-高级研究员，参与了杜比全景声在移动端落地的多个重点项目的算法研究及声学测量等工作。如
-DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile (全球第一
-个搭载杜比全景声的平板电脑:Lenovo Yoga 3) 等<br>
+Dolby Laboratories<br>
+Senior Researcher<br>
 
 
-## 学术兼职 
-
-**2019.07 - 至今**<br>
-**澳大利亚卧龙岗大学（University of Wollongong）**<br>
-荣誉高级研究员（Honorary Senior Research Fellow）<br>
-**2021.11 - 至今**<br>
-**Institute of Electrical and Electronics Engineers (IEEE)** <br>
-高级会员（Senior Member）<br>
-
-## 教育经历
+## Education
 
 **08.2009 - 12.2013**<br>
-**澳大利亚卧龙岗大学（University of Wollongong）**<br>
-博士（空间音频信号处理）
--- 导师: Prof. Christian Ritz and Prof. Jiangtao Xi
+University of Wollongong, Australia
+Doctor of Philosophy
+-- Dissertation Topic: “Soundfield Navigation: Separation, Compression and Transmission”
+-- Advisor: Prof. Christian Ritz and Prof. Jiangtao Xi
 
 **09.2005 - 06.2009**<br>
-**北京邮电大学**<br>
-**工学学士 (电信工程及管理专业，联合培养)**<br>
-**伦敦大学玛丽女王学院（Queen Mary University of London	）**<br>
-**工学学士 (电信工程及管理专业，联合培养)**<br>
+Beijing University of Posts and Telecommunications, China
+Bachelor of Engineering (Joint Program)
+Queen Mary University of London, United Kingdom
+Bachelor of Engineering (Joint Program)
 
 
-## 荣誉
+## Honors and Awards
 
-2023 第二名, ICASSP 2023 微软回声消除挑战赛 <br>
-2022 第一名, INTERSPEECH 2022 微软深度丢包补偿挑战赛 <br>
-2022 第二名, INTERSPEECH 2022 腾讯语音音质预测挑战赛 <br>
-2022 第二名, IEEE ICASSP 2022 微软回声消除挑战赛 <br>
-2022 第四名, IEEE ICASSP 2022 微软深度降噪挑战赛任务 2 <br>
-2021 第一名, INTERSPEECH 2021 腾讯多通道降噪挑战赛任务 1 <br>
-2021 第一名, INTERSPEECH 2021 腾讯多通道降噪挑战赛任务 2 <br>
-2021 第一名, IEEE MLSP 2021 L3DAS21 多通道降噪挑战赛任务 1 <br>
-2021 第三名, INTERSPEECH 2021 微软回声消除挑战赛 2021 <br>
+2022 **RNK 2** ICASSP 2023 Acoustic Echo Cancellation Challenge <br>
+2022 **RNK 1** Interspeech 2022 Deep Audio PLC Challenge <br>
+2022 **RNK 2** Interspeech 2022 Conferencing Speech Challenge <br>
+2022 **RNK 2** ICASSP 2022 Acoustic Echo Cancellation Challenge <br>
+2022 **RNK 4** ICASSP 2022 Deep Noise Suppression Challenge Task 2 <br>
+2021 **RNK 1** Interspeech 2021 Conferencing Speech Challenge task 1 <br>
+2021 **RNK 1** Interspeech 2021 Conferencing Speech Challenge task 2 <br>
+2021 **RNK 1** IEEE MLSP 2021 L3DAS21 Challenge task 1 <br>
+2021 **RNK 6** Interspeech 2021 Deep Noise Suppression Challenge task 1 <br>
+2021 **RNK 3** Interspeech 2021 Acoustic Echo Cancellation Challenge <br>
 2015 Elsevier Computers and Electrical Engineering Outstanding Reviewer Award <br>
-2013 教育部国家优秀自费留学生奖学金 <br>
-2010-2012 卧龙岗大学博士全额奖学金 <br>
-2010-2012 澳大利亚研究委员会博士全额奖学金 <br>
+2013 Chinese Government Scholarship for Outstanding Self-financed Students Studying Abroad <br>
+2010-2012 International Postgraduate Tuition Award <br>
+2010-2012 Australian Research Council - Spatial Audio Signal Processing Scholarship <br>
 
-## 期刊文章
+
+
+## Publications
+### Journal
 **1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction”, `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. (IF = 2.679, SCI Q2)<br>
 **2.** M. Jia, J. Sun, and X. Zheng ”Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity”, `Applied Sciences`, pp. 8, no. 1: 123., 2018. (IF = 2.736, SCI Q2)<br>
 **3.** M. Jia, J. Zhang, C. Bao, and X. Zheng. ”A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity”, `Applied Sciences`, pp. 7, no.12: 1301., 2017. (IF = 2.736, SCI Q2)<br>
@@ -93,7 +72,7 @@ DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile
 **12.** L. Wang, Y. Sun, M. Jiang, and X. Zheng, “Integrative Decomposition Procedure and Kappa Statistics for the Distinguished Single Molecular Network Construction and Analysis”, `Journal of Biomedicine and Biotechnolog`, vol. 2009, pp. 1–7, 2009. <br>
 
 
-## 会议文章
+### Conference
 **1**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in Interspeech 2023, in press. (CCF:B)<br>
 **2**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in ICASSP 2023, In press.(CCF:B)<br>
 **3**. N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, in Interspeech 2022 , pp.585-589, 2022. (CCF:C)<br>
@@ -114,7 +93,7 @@ DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile
 **18.** X. Zheng and C. Ritz, “Hybrid FEC and MDC models for low-delay packet-loss recovery”, in `5th International Conference on Signal Processing and Communication Systems (ICSPCS)`, 2011, pp.1–6. <br>
 **19.** X. Zheng and C. Ritz, “Compression of navigable speech soundfield zones”, in `Multimedia Signal Processing (MMSP)`, 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.<br>
 
-### 国际专利（已授权）
+### International Patents
 **1**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "Reverberation generation for headphone virtualization", `US10750306B2`, granted on 2020.<br>
 **2**.G. MA, X. Zheng C. Zhang and X. Sun, "User experience oriented audio signal processing", `US10356524B2`, granted on 2019.<br>
 **3**.G. MA and X. Zheng, "Combined active noise cancellation and noise compensation in headphone", `US9911404B2`, granted on 2018.<br>
