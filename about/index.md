@@ -9,7 +9,7 @@ title: About
 **09.2019 - 至今          快手科技**<br>
 `音频算法工程师（算法研究技术负责人）`<br>
 2019 年加入快手音视频团队，负责音频算法研发。从零开始建设音频算法研究组，目前落地了快
-手主站及多个应用的音频功能，包括语音降噪[语音降噪](<https://xz725.github.io/projects/noise_reduction/>)、[音频分离](<https://xz725.github.io/projects/singing_voice_separation/>)、[音频内容理解](<https://xz725.github.io/projects/beats_tracking/>)、[风格转换](<https://xz725.github.io/projects/style_transfer/>)、[变声]<https://xz725.github.io/projects/voice_conversion/>、音频多码率编码器、
+手主站及多个应用的音频功能，包括语音降噪[语音降噪](<https://xz725.github.io/projects/noise_reduction/>)、[音频分离](<https://xz725.github.io/projects/singing_voice_separation/>)、[音频内容理解](<https://xz725.github.io/projects/beats_tracking/>)、[风格转换](<https://xz725.github.io/projects/style_transfer/>)、[变声](<https://xz725.github.io/projects/voice_conversion/>)、音频多码率编码器、
 K歌音效、[音频后处理](<https://xz725.github.io/projects/soundfield_expansion/>)、人声美化及无参考语音、音频评测等方向。发表顶会论文近十篇，专利数十篇。获得
 数项国际顶会音频挑战赛冠军<br>
 
@@ -48,14 +48,14 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 
 **08.2009 - 12.2013**<br>
 **澳大利亚卧龙岗大学（University of Wollongong）**<br>
-博士（空间音频信号处理）
+`博士（空间音频信号处理）`<br>
 -- 导师: Prof. Christian Ritz and Prof. Jiangtao Xi
 
 **09.2005 - 06.2009**<br>
 **北京邮电大学**<br>
-工学学士 (电信工程及管理专业，联合培养)<br>
+`工学学士` (电信工程及管理专业，联合培养)<br>
 **伦敦大学玛丽女王学院（Queen Mary University of London	）**<br>
-工学学士 (电信工程及管理专业，联合培养)<br>
+`工学学士` (电信工程及管理专业，联合培养)<br>
 
 -------------------
 
