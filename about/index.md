@@ -6,9 +6,8 @@ title: About
 
 ## 工作经历
 
-**09.2019 - 至今**<br>
-**快手科技**<br>
-音频算法工程师（算法研究技术负责人）<br>
+**09.2019 - 至今          快手科技**<br>
+`音频算法工程师（算法研究技术负责人）`'<br>
 2019 年加入快手音视频团队，负责音频算法研发。从零开始建设音频算法研究组，目前落地了快
 手主站及多个应用的音频功能，包括语音降噪、音频分离、音频内容理解、音频多码率编码器、
 K 歌音效、人声美化及无参考语音、音频评测等方向。发表顶会论文近十篇，专利数十篇。获得
@@ -22,31 +21,30 @@ K 歌音效、人声美化及无参考语音、音频评测等方向。发表顶
 时策略、股指期货择时策略等。管理资金规模人民币 5000 万元。资管产品获得 2018 年中信期
 货全国私募实盘大赛，股票策略组第一名；2020 年 wind 三年期全国最强私募基金 FOF<br>
 
-**06.2016 - 12.2017**<br>
-**音曼（北京）科技有限公司**<br>
+**06.2016 - 12.2017          音曼（北京）科技有限公司**<br>
 首席研究员，合伙人<br>
 2016 年作为联合创始人加入音曼科技 (获天津九安医疗旗下尚势资本千万级天使投资)。主要负
 责算法研究，知识产权，同时和 CEO 一起协调产品量产。成功研发音曼 OMNOS 回音壁音箱
 产品 (德国红点设计奖)、移动 KTV 核心 DSP 算法板、Ambisonic 声场麦克风等音频硬件产品，
 累计实现近千万销售额
 
-**03.2013 - 05.2016**<br>
-**杜比实验室**<br>
+**03.2013 - 05.2016          杜比实验室**<br>
 高级研究员<br>
 2013 年在澳大利亚卧龙岗大学完成博士工作后，加入杜比实验室。作为杜比实验室全球最年轻的
 高级研究员，参与了杜比全景声在移动端落地的多个重点项目的算法研究及声学测量等工作。如
 DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile (全球第一
 个搭载杜比全景声的平板电脑:Lenovo Yoga 3) 等<br>
 
+-------------------
 
 ## 学术兼职 
 
-**2019.07 - 至今**<br>
-**澳大利亚卧龙岗大学（University of Wollongong）**<br>
+**2019.07 - 至今          澳大利亚卧龙岗大学（University of Wollongong）**<br>
 荣誉高级研究员（Honorary Senior Research Fellow）<br>
-**2021.11 - 至今**<br>
-**Institute of Electrical and Electronics Engineers (IEEE)** <br>
+**2021.11 - 至今          Institute of Electrical and Electronics Engineers (IEEE)** <br>
 高级会员（Senior Member）<br>
+
+-------------------
 
 ## 教育经历
 
@@ -61,6 +59,7 @@ DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile
 **伦敦大学玛丽女王学院（Queen Mary University of London	）**<br>
 **工学学士 (电信工程及管理专业，联合培养)**<br>
 
+-------------------
 
 ## 荣誉
 
@@ -78,6 +77,8 @@ DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile
 2010-2012 卧龙岗大学博士全额奖学金 <br>
 2010-2012 澳大利亚研究委员会博士全额奖学金 <br>
 
+-------------------
+
 ## 期刊文章
 **1.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction”, `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. (IF = 2.679, SCI Q2)<br>
 **2.** M. Jia, J. Sun, and X. Zheng ”Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity”, `Applied Sciences`, pp. 8, no. 1: 123., 2018. (IF = 2.736, SCI Q2)<br>
@@ -92,12 +93,13 @@ DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile
 **11.** L. Wang, J. Huang, M. Jiang, and X. Zheng, “AFP computational secreted network construction and analysis between human hepatocellular carcinoma (HCC) and no-tumor hepatitis/cirrhotic liver tissues”, `Tumour Biol.`, vol. 31, no. 5, pp. 417–425, Oct. 2010. (IF = 3.526, SCI Q2)<br>
 **12.** L. Wang, Y. Sun, M. Jiang, and X. Zheng, “Integrative Decomposition Procedure and Kappa Statistics for the Distinguished Single Molecular Network Construction and Analysis”, `Journal of Biomedicine and Biotechnolog`, vol. 2009, pp. 1–7, 2009. <br>
 
+-------------------
 
 ## 会议文章
-**1**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in Interspeech 2023, in press. (CCF:B)<br>
-**2**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in ICASSP 2023, In press.(CCF:B)<br>
-**3**. N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, in Interspeech 2022 , pp.585-589, 2022. (CCF:C)<br>
-**4**. L. Chen, X. Ren, X. Zhang, X. Zheng, C. Zhang, L. Guo, and B. Yu, “Impairment Representation Learning for Speech Quality Assessment”, in Interspeech 2022 , pp.3323-3327, 2022. (CCF:C)<br>
+**1**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in `Interspeech 2023`, in press. (CCF:B)<br>
+**2**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in `ICASSP 2023`, In press.(CCF:B)<br>
+**3**. N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, `in Interspeech 2022` , pp.585-589, 2022. (CCF:C)<br>
+**4**. L. Chen, X. Ren, X. Zhang, X. Zheng, C. Zhang, L. Guo, and B. Yu, “Impairment Representation Learning for Speech Quality Assessment”, in `Interspeech 2022` , pp.3323-3327, 2022. (CCF:C)<br>
 **5**. L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION”, in ICME 2022 , in press. (CCF:B)<br>
 **6.** H. Zhao, N. Li, R. Han, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A DEEP HIERARCHICAL FUSION NETWORK FOR FULLBAND ACOUSTIC ECHO CANCELLATION”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp 9112-9116. (CCF:B)<br>
 **7.** E. Guizzo et al.,“L3DAS22 CHALLENGE: LEARNING 3D AUDIO SOURCES IN A REAL OFFICE ENVIRONMENT”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 9186-9190. (CCF:B)<br>
@@ -113,6 +115,8 @@ DOLBY ATOMS for Headphone（3D 耳机虚拟环绕声）、DOLBY ATOMS for Mobile
 **17.** X. Zheng, C. Ritz, and J. Xi, “Encoding navigable speech sources: an analysis by synthesis approach”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, March, 2012. (CCF:B)<br>
 **18.** X. Zheng and C. Ritz, “Hybrid FEC and MDC models for low-delay packet-loss recovery”, in `5th International Conference on Signal Processing and Communication Systems (ICSPCS)`, 2011, pp.1–6. <br>
 **19.** X. Zheng and C. Ritz, “Compression of navigable speech soundfield zones”, in `Multimedia Signal Processing (MMSP)`, 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.<br>
+
+-------------------
 
 ### 国际专利（已授权）
 **1**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "Reverberation generation for headphone virtualization", `US10750306B2`, granted on 2020.<br>
