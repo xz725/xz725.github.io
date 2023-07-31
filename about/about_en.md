@@ -73,25 +73,26 @@ Bachelor of Engineering (Joint Program)
 
 
 ### Conference
-**1**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in Interspeech 2023, in press. (CCF:B)<br>
-**2**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in ICASSP 2023, In press.(CCF:B)<br>
-**3**. N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, in Interspeech 2022 , pp.585-589, 2022. (CCF:C)<br>
-**4**. L. Chen, X. Ren, X. Zhang, X. Zheng, C. Zhang, L. Guo, and B. Yu, “Impairment Representation Learning for Speech Quality Assessment”, in Interspeech 2022 , pp.3323-3327, 2022. (CCF:C)<br>
-**5**. L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION”, in ICME 2022 , in press. (CCF:B)<br>
-**6.** H. Zhao, N. Li, R. Han, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A DEEP HIERARCHICAL FUSION NETWORK FOR FULLBAND ACOUSTIC ECHO CANCELLATION”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp 9112-9116. (CCF:B)<br>
-**7.** E. Guizzo et al.,“L3DAS22 CHALLENGE: LEARNING 3D AUDIO SOURCES IN A REAL OFFICE ENVIRONMENT”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 9186-9190. (CCF:B)<br>
-**8.** X. Zhang, X. Ren, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A TWO-STEP BACKWARD COMPATIBLE FULLBAND SPEECH ENHANCEMENT SYSTEM”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 7762-7766. (CCF:B)<br>
-**9.** L. Chen, C. Xu, X. Zhang, X. Ren, X. Zheng, C. Zhang, L. Guo and B. Yu “MULTI-STAGE AND MULTI-LOSS TRAINING FOR FULLBAND NON-PERSONALIZED AND PERSONALIZED SPEECH ENHANCEMENT”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 9296-9300. (CCF:B)<br>
-**10.** X. Ren, X. Zhang, L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, ”A Causal U-net based Neural Beamforming Network for Real-Time Multi-Channel Speech Enhancement”, in `INTERSPEECH 2021`, 2021. (CCF:C)<br>
-**11.** X. Zhang, X. Ren, X. Zheng, L. Chen, C. Zhang, L. Guo, and B. Yu, ”Low-Delay Speech Enhancement Using Perceptually Motivated Target and Loss”, in `INTERSPEECH 2021`, 2021. (CCF:C)<br>
-**12.** X. Zheng, C. Zhang, ”Towards Blind Audio Quality Assessment using a Convolutional-Recurrent Neural Network”, in `2021 Thirteenth International Conference on Quality of Multimedia Experience (QoMEX)`, June, 2021.<br>
-**13.** X. Ren, L. Chen, X. Zheng, C. Xu, C. Zhang, L. Guo, and B. Yu., “A Neural Beamforming Network for B-Format 3D Speech Enhancement and Recognition”, in `2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)`, Oct. 2021, pp. 1–6.<br>
-**14.** X. Zheng, C. Ritz, ”Packet loss protection for interactive speech object rendering: a multiple description approach”, in 2nd IEEE China Summit and `International Conference on Signal and Information Processing`, July, 2014.<br>
-**15.** X. Zheng, C. Ritz, and J. Xi, ”A Psychoacoustic-Based Analysis-by-Synthesis Scheme for Jointly Encoding Multiple Audio Objects Into Independent Mixtures”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, May, 2013. (CCF:B)<br>
-**16.** X. Zheng, C. Ritz, ”Packet Loss Protection For Interactive Audio Object Rendering: A Multiple Description Approach”, in `4th International Workshop on Quality of Multimedia Experience`, July, 2012.<br>
-**17.** X. Zheng, C. Ritz, and J. Xi, “Encoding navigable speech sources: an analysis by synthesis approach”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, March, 2012. (CCF:B)<br>
-**18.** X. Zheng and C. Ritz, “Hybrid FEC and MDC models for low-delay packet-loss recovery”, in `5th International Conference on Signal Processing and Communication Systems (ICSPCS)`, 2011, pp.1–6. <br>
-**19.** X. Zheng and C. Ritz, “Compression of navigable speech soundfield zones”, in `Multimedia Signal Processing (MMSP)`, 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.<br>
+**1**. H. Wang, S. Zhao, X. Zheng, Y. Qin, "RAMP: Retrieval-Augmented MOS Prediction via Confidence-based Dynamic Weighting", in Interspeech 2023, in press. (CCF:C)<br>
+**2**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in ICME 2023. (CCF:B)<br>
+**3**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in ICASSP 2023, In press.(CCF:B)<br>
+**4**. N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, in Interspeech 2022 , pp.585-589, 2022. (CCF:C)<br>
+**5**. L. Chen, X. Ren, X. Zhang, X. Zheng, C. Zhang, L. Guo, and B. Yu, “Impairment Representation Learning for Speech Quality Assessment”, in Interspeech 2022 , pp.3323-3327, 2022. (CCF:C)<br>
+**6**. L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION”, in ICME 2022 , in press. (CCF:B)<br>
+**7.** H. Zhao, N. Li, R. Han, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A DEEP HIERARCHICAL FUSION NETWORK FOR FULLBAND ACOUSTIC ECHO CANCELLATION”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp 9112-9116. (CCF:B)<br>
+**8.** E. Guizzo et al.,“L3DAS22 CHALLENGE: LEARNING 3D AUDIO SOURCES IN A REAL OFFICE ENVIRONMENT”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 9186-9190. (CCF:B)<br>
+**9.** X. Zhang, X. Ren, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A TWO-STEP BACKWARD COMPATIBLE FULLBAND SPEECH ENHANCEMENT SYSTEM”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 7762-7766. (CCF:B)<br>
+**10.** L. Chen, C. Xu, X. Zhang, X. Ren, X. Zheng, C. Zhang, L. Guo and B. Yu “MULTI-STAGE AND MULTI-LOSS TRAINING FOR FULLBAND NON-PERSONALIZED AND PERSONALIZED SPEECH ENHANCEMENT”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 9296-9300. (CCF:B)<br>
+**11.** X. Ren, X. Zhang, L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, ”A Causal U-net based Neural Beamforming Network for Real-Time Multi-Channel Speech Enhancement”, in `INTERSPEECH 2021`, 2021. (CCF:C)<br>
+**12.** X. Zhang, X. Ren, X. Zheng, L. Chen, C. Zhang, L. Guo, and B. Yu, ”Low-Delay Speech Enhancement Using Perceptually Motivated Target and Loss”, in `INTERSPEECH 2021`, 2021. (CCF:C)<br>
+**13.** X. Zheng, C. Zhang, ”Towards Blind Audio Quality Assessment using a Convolutional-Recurrent Neural Network”, in `2021 Thirteenth International Conference on Quality of Multimedia Experience (QoMEX)`, June, 2021.<br>
+**14.** X. Ren, L. Chen, X. Zheng, C. Xu, C. Zhang, L. Guo, and B. Yu., “A Neural Beamforming Network for B-Format 3D Speech Enhancement and Recognition”, in `2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)`, Oct. 2021, pp. 1–6.<br>
+**15.** X. Zheng, C. Ritz, ”Packet loss protection for interactive speech object rendering: a multiple description approach”, in 2nd IEEE China Summit and `International Conference on Signal and Information Processing`, July, 2014.<br>
+**16.** X. Zheng, C. Ritz, and J. Xi, ”A Psychoacoustic-Based Analysis-by-Synthesis Scheme for Jointly Encoding Multiple Audio Objects Into Independent Mixtures”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, May, 2013. (CCF:B)<br>
+**17.** X. Zheng, C. Ritz, ”Packet Loss Protection For Interactive Audio Object Rendering: A Multiple Description Approach”, in `4th International Workshop on Quality of Multimedia Experience`, July, 2012.<br>
+**18.** X. Zheng, C. Ritz, and J. Xi, “Encoding navigable speech sources: an analysis by synthesis approach”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, March, 2012. (CCF:B)<br>
+**19.** X. Zheng and C. Ritz, “Hybrid FEC and MDC models for low-delay packet-loss recovery”, in `5th International Conference on Signal Processing and Communication Systems (ICSPCS)`, 2011, pp.1–6. <br>
+**20.** X. Zheng and C. Ritz, “Compression of navigable speech soundfield zones”, in `Multimedia Signal Processing (MMSP)`, 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.<br>
 
 ### International Patents
 **1**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "Reverberation generation for headphone virtualization", `US10750306B2`, granted on 2020.<br>
