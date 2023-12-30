@@ -63,6 +63,7 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 
 ## 荣誉
 
+2024 第一名, ICASSP 2024 微软语音音质增强挑战赛 <br>
 2023 第二名, ICASSP 2023 微软回声消除挑战赛 <br>
 2022 第一名, INTERSPEECH 2022 微软深度丢包补偿挑战赛 <br>
 2022 第二名, INTERSPEECH 2022 腾讯语音音质预测挑战赛 <br>
@@ -120,10 +121,18 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 -------------------
 
 ### 国际专利（已授权）
-**7**.X.Zheng and C.Zhang, "Method for processing audio and electronic device",`US11636836B2`, granted on 2023.<br>
+**8**.X.Zheng and C.Zhang, "Method for processing audio and electronic device",`US11636836B2`, granted on 2023.<br>
+**7**.X.Fan, X.Zheng and C.Zhang, "Method for processing audio signal and electronic device",`EP4142310A1`, granted on 2022.<br>
 **6**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "Reverberation generation for headphone virtualization", `US10750306B2`, granted on 2020.<br>
 **5**.G. MA, X. Zheng C. Zhang and X. Sun, "User experience oriented audio signal processing", `US10356524B2`, granted on 2019.<br>
 **4**.G. MA and X. Zheng, "Combined active noise cancellation and noise compensation in headphone", `US9911404B2`, granted on 2018.<br>
 **3**.G. MA, X. Zheng and C. Brown, "Modeling a frequency response characteristic of an electro-acoustic transducer", `US10038961B2`, granted on 2018.<br>
 **2**.G. MA, X. Zheng and C. Brown, "Enhancing intelligibility of speech content in an audio signal", `US10096329B2`, granted on 2018.<br>
 **1**.G. MA and X. ZHENG, “Audio signal loudness control”, `US10594283B2`, granted on 2020.<br>
+
+
+
+
+
+
+
