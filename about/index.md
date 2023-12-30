@@ -120,6 +120,7 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 -------------------
 
 ### 国际专利（已授权）
+**7**.X.Zheng and C.Zhang, "Method for processing audio and electronic device",`US11636836B2`, granted on 2023.<br>
 **6**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "Reverberation generation for headphone virtualization", `US10750306B2`, granted on 2020.<br>
 **5**.G. MA, X. Zheng C. Zhang and X. Sun, "User experience oriented audio signal processing", `US10356524B2`, granted on 2019.<br>
 **4**.G. MA and X. Zheng, "Combined active noise cancellation and noise compensation in headphone", `US9911404B2`, granted on 2018.<br>
