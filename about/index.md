@@ -97,7 +97,8 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 -------------------
 
 ## 会议文章
-**21**. G. Yu, X. Zheng, N. Li, R. Han, C. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu, "BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution", in `ICASSP 2024`, in press. (CCF:B)<br>
+**22**. G. Yu, X. Zheng, N. Li, R. Han, C. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu, "BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution", in `ICASSP 2024`, in press. (CCF:B)<br>
+**21**. C. Xu, X. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu,"Kaq: A Non-Intrusive Stacking Framework for Mean Opinion Score Prediction with Multi-Task Learning", in ASRU 2023, 2023.
 **20**. H.Wang, S.Zhao, X.Zheng, and Y.Qin, "RAMP: Retrieval-Augmented MOS Prediction via Confidence-based Dynamic Weighting", Proc. INTERSPEECH 2023, 2023. (CCF:C)<br>
 **19**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in `ICME 2023`, 2023. (CCF:B)<br>
 **18**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, 2023. (CCF:B)<br>
