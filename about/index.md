@@ -97,8 +97,9 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 -------------------
 
 ## 会议文章
-**20**. G. Yu, X. Zheng, N. Li, R. Han, C. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu, "BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution", in `ICASSP 2024`, in press. (CCF:B)<br>
-**19**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in `Interspeech 2023`, 2023. (CCF:B)<br>
+**21**. G. Yu, X. Zheng, N. Li, R. Han, C. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu, "BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution", in `ICASSP 2024`, in press. (CCF:B)<br>
+**20**. H.Wang, S.Zhao, X.Zheng, and Y.Qin, "RAMP: Retrieval-Augmented MOS Prediction via Confidence-based Dynamic Weighting", Proc. INTERSPEECH 2023, 2023. (CCF:C)<br>
+**19**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in `ICME 2023`, 2023. (CCF:B)<br>
 **18**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, 2023. (CCF:B)<br>
 **17**. N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, `in Interspeech 2022` , pp.585-589, 2022. (CCF:C)<br>
 **16**. L. Chen, X. Ren, X. Zhang, X. Zheng, C. Zhang, L. Guo, and B. Yu, “Impairment Representation Learning for Speech Quality Assessment”, in `Interspeech 2022` , pp.3323-3327, 2022. (CCF:C)<br>
