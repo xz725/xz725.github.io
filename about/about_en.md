@@ -111,8 +111,7 @@ Bachelor of Engineering (Joint Program)
 **1.** X. Zheng and C. Ritz, “Compression of navigable speech soundfield zones”, in `Multimedia Signal Processing (MMSP)`, 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.<br>
 
 ### International Patents
-**8**.X.Zheng and C.Zhang, "Method for processing audio and electronic device",`US11636836B2`, granted on 2023.<br>
-**7**.X.Fan, X.Zheng and C.Zhang, "Method for processing audio signal and electronic device",`EP4142310A1`, granted on 2022.<br>
+**7**.X.Zheng and C.Zhang, "Method for processing audio and electronic device",`US11636836B2`, granted on 2023.<br>
 **6**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "Reverberation generation for headphone virtualization", `US10750306B2`, granted on 2020.<br>
 **5**.G. MA, X. Zheng C. Zhang and X. Sun, "User experience oriented audio signal processing", `US10356524B2`, granted on 2019.<br>
 **4**.G. MA and X. Zheng, "Combined active noise cancellation and noise compensation in headphone", `US9911404B2`, granted on 2018.<br>
