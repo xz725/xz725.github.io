@@ -63,6 +63,7 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 
 ## 荣誉
 
+2024 第一名, ICASSP 2024 微软深度丢包补偿挑战赛 <br>
 2024 第一名, ICASSP 2024 微软语音音质增强挑战赛 <br>
 2023 第二名, ICASSP 2023 微软回声消除挑战赛 <br>
 2022 第一名, INTERSPEECH 2022 微软深度丢包补偿挑战赛 <br>
