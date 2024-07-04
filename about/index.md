@@ -5,9 +5,6 @@ title: About
 [English](<https://xz725.github.io/about/about_en/>) 
 
 ## 工作经历
-**11.2023 - 至今          大疆创新**<br>
-`音频算法工程师`<br>
-
 **09.2019 - 10.2023          快手科技**<br>
 `音频算法工程师（算法研究技术负责人）`<br>
 2019 年加入快手音视频团队，负责音频算法研发。从零开始建设音频算法研究组，目前落地了快
@@ -41,8 +38,13 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 
 **2019.07 - 至今          澳大利亚卧龙岗大学（University of Wollongong）**<br>
 `荣誉高级研究员（Honorary Senior Research Fellow）`<br>
-**2021.11 - 至今          Institute of Electrical and Electronics Engineers (IEEE)** <br>
-`高级会员（Senior Member）`<br>
+
+-------------------
+
+## 会员职称
+
+**`IEEE 高级会员`** <br>
+**`高级工程师`** <br>
 
 -------------------
 
@@ -82,6 +84,7 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 -------------------
 
 ## 期刊文章
+
 **12.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction”, `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. (IF = 2.679, SCI Q2)<br>
 **11.** M. Jia, J. Sun, and X. Zheng ”Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity”, `Applied Sciences`, pp. 8, no. 1: 123., 2018. (IF = 2.736, SCI Q2)<br>
 **10.** M. Jia, J. Zhang, C. Bao, and X. Zheng. ”A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity”, `Applied Sciences`, pp. 7, no.12: 1301., 2017. (IF = 2.736, SCI Q2)<br>
@@ -98,7 +101,8 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 -------------------
 
 ## 会议文章
-**22**. G. Yu, X. Zheng, N. Li, R. Han, C. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu, "BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution", in `ICASSP 2024`, in press. (CCF:B)<br>
+**23**. H. Wang, S. Zhao, J. Zhou, X. Zheng, H. Sun, X. Wang, Y. Qin, "Uncertainty-Aware Mean Opinion Score Prediction", in Interspeech 2024, 2024. (CCF:B)<br>
+**22**. G. Yu, X. Zheng, N. Li, R. Han, C. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu, "BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution", in `ICASSP 2024`, 2024. (CCF:B)<br>
 **21**. C. Xu, X. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu,"Kaq: A Non-Intrusive Stacking Framework for Mean Opinion Score Prediction with Multi-Task Learning", in ASRU 2023, 2023.<br>
 **20**. H.Wang, S.Zhao, X.Zheng, and Y.Qin, "RAMP: Retrieval-Augmented MOS Prediction via Confidence-based Dynamic Weighting", Proc. INTERSPEECH 2023, 2023. (CCF:C)<br>
 **19**. H. Wang, X. Zheng, Y. Qin, "Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction", in `ICME 2023`, 2023. (CCF:B)<br>
@@ -123,7 +127,7 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 
 -------------------
 
-### 国际专利（已授权）
+### 国际发明专利（已授权）
 **7**.X.Zheng and C.Zhang, "Method for processing audio and electronic device",`US11636836B2`, granted on 2023.<br>
 **6**.L. Fielder, Z. Shuang, G. Davidson, X. Zheng and M. Vinton, "Reverberation generation for headphone virtualization", `US10750306B2`, granted on 2020.<br>
 **5**.G. MA, X. Zheng C. Zhang and X. Sun, "User experience oriented audio signal processing", `US10356524B2`, granted on 2019.<br>
@@ -132,9 +136,63 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 **2**.G. MA, X. Zheng and C. Brown, "Enhancing intelligibility of speech content in an audio signal", `US10096329B2`, granted on 2018.<br>
 **1**.G. MA and X. ZHENG, “Audio signal loudness control”, `US10594283B2`, granted on 2020.<br>
 
+-------------------
 
+### 中国发明专利（已授权）
 
+**54.** 范欣悦, 张晨, 李楠, 郑羲光, 声音处理方法、装置、电子设备及存储介质 ,`CN-112365868-B`,2024/5/28<br>
+**53.** 张颖, 杨鹏, 李楠, 王芮, 张晨, 郑羲光, 车浩, 一种语音处理方法、装置、电子设备及存储介质 ,`CN-113314101-B`,2024/5/14<br>
+**52.** 郑羲光, 范欣悦, 张晨, 语音处理方法及其装置和模型训练方法及其装置 ,`CN-113707163-B`,2024/5/14<br>
+**51.** 张旭, 张晨, 李楠, 郑羲光, 语音回退方法及其装置 ,`CN-112309427-B`,2024/5/14<br>
+**50.** 张旭, 郑羲光, 张晨, 音频数据处理方法、装置、计算机设备及存储介质 ,`CN-111883147-B`,2024/5/7<br>
+**49.** 郑羲光, 张晨, 音频处理方法、装置、电子设备及存储介质 ,`CN-112216294-B`,2024/3/19<br>
+**48.** 韩润强, 张晨, 吕新亮, 郑羲光, 语音增强模型的训练方法和装置及语音增强方法和装置 ,`CN-113470685-B`,2024/3/12<br>
+**47.** 范欣悦, 张晨, 郑羲光, 李楠, 人声伴奏对齐方法及装置 ,`CN-112216259-B`,2024/3/8<br>
+**46.** 陈联武, 张晨, 张旭, 郑羲光, 任新蕾, 语音增强模型的训练方法和设备及语音增强方法和设备 ,`CN-113593594-B`,2024/3/8<br>
+**45.** 郑羲光, 董培, 陈翔宇, 张晨, 音频编码方法、装置、电子设备和存储介质 ,`CN-111816197-B`,2024/2/23<br>
+**44.** 陈联武, 张晨, 张旭, 郑羲光, 任新蕾, 语音增强模型的训练方法及装置、语音增强方法及装置 ,`CN-113555031-B`,2024/2/23<br>
+**43.** 张旭, 张新, 李楠, 郑羲光, 张晨, 语音处理方法和装置以及声码器和声码器的训练方法 ,`CN-113470616-B`,2024/2/23<br>
+**42.** 张新, 郑羲光, 张晨, 语音增强模型的训练方法和装置及语音增强方法和装置 ,`CN-113284507-B`,2024/2/13<br>
+**41.** 张旭, 郑羲光, 张晨, 音频降噪处理方法、装置、服务器及存储介质 ,`CN-112151054-B`,2024/2/13<br>
+**40.** 任新蕾, 郑羲光, 陈联武, 张晨, 音频处理方法、装置、电子设备及存储介质 ,`CN-115334349-B`,2024/1/2<br>
+**39.** 李楠, 郑羲光, 张晨, 音频信号的处理方法、音频生成模型的训练方法及装置 ,`CN-114866856-B`,2024/1/2<br>
+**38.** 任新蕾, 郑羲光, 李楠, 张晨, 语音处理模型的训练方法和装置以及语音处理方法和装置 ,`CN-113035221-B`,2023/12/19<br>
+**37.** 郑羲光, 张晨, 音频质量识别模型的训练方法、装置、服务器和存储介质 ,`CN-111863033-B`,2023/12/12<br>
+**36.** 张旭, 郑羲光, 张晨, 降噪模型训练方法、装置、电子设备及存储介质 ,`CN-111554321-B`,2023/12/5<br>
+**35.** 吕新亮, 郑羲光, 张晨, 声源定位方法及装置 ,`CN-113203988-B`,2023/11/21<br>
+**34.** 郑羲光, 陈翔宇, 张晨, 音质检测方法、装置、电子设备及存储介质 ,`CN-112185421-B`,2023/11/21<br>
+**33.** 范欣悦, 张晨, 郑羲光, 音频处理方法、装置、电子设备及存储介质 ,`CN-112669797-B`,2023/11/14<br>
+**32.** 张旭, 郑羲光, 张晨, 模型训练方法、装置、电子设备及存储介质 ,`CN-111883164-B`,2023/11/3<br>
+**31.** 郑羲光, 张新, 李楠, 张晨, 语音处理方法及装置 ,`CN-112951256-B`,2023/10/31<br>
+**30.** 张旭, 张晨, 郑羲光, 音频信号处理方法及装置 ,`CN-111667842-B`,2023/10/31<br>
+**29.** 张新, 张旭, 郑羲光, 张晨, 郭亮, 语音增强模型的训练方法和装置及语音增强方法和装置 ,`CN-112927707-B`,2023/10/3<br>
+**28.** 张旭, 郑羲光, 张晨, 郭亮, 音质评估方法、装置、电子设备及存储介质 ,`CN-113436644-B`,2023/9/1<br>
+**27.** 郑羲光, 张晨, 音频定位的方法、装置、终端设备及服务器 ,`CN-111429941-B`,2023/8/22<br>
+**26.** 郑羲光, 董培, 张晨, 郭亮, 音频处理方法、装置、电子设备及可读存储介质 ,`CN-111489757-B`,2023/8/18<br>
+**25.** 范欣悦, 崔凡, 郑羲光, 张晨, 音频信号处理方法及装置 ,`CN-113192524-B`,2023/8/18<br>
+**24.** 董培, 郑羲光, 张晨, 一种音频处理方法、装置、设备及存储介质 ,`CN-111402918-B`,2023/8/8<br>
+**23.** 张旭, 郑羲光, 张晨, 郭亮, 语音质量检测模型的训练方法、语音质量检测方法及装置 ,`CN-113192536-B`,2023/7/28<br>
+**22.** 张旭, 郑羲光, 张晨, 任新蕾, 音频处理模型的训练方法及装置、音频处理方法及装置 ,`CN-113314147-B`,2023/7/25<br>
+**21.** 任新蕾, 郑羲光, 李楠, 张晨, 语音处理模型的训练方法和装置以及语音处理方法和装置 ,`CN-112712816-B`,2023/6/20<br>
+**20.** 范欣悦, 初钧晗, 吴珈旻, 张晨, 郑羲光, 双声道音频后处理的方法和装置 ,`CN-113473352-B`,2023/6/20<br>
+**19.** 崔凡, 任新蕾, 郑羲光, 李楠, 张晨, 声码器的训练方法和装置及合成音频信号的方法和声码器 ,`CN-113436603-B`,2023/5/2<br>
+**18.** 张新, 李楠, 郑羲光, 张晨, 模型文件的发送方法和装置及模型文件的接收方法和装置 ,`CN-113259438-B`,2023/3/31<br>
+**17.** 张旭, 郑羲光, 张晨, 产生混响音频信号的方法及音频处理模型的训练方法 ,`CN-112652290-B`,2023/1/20<br>
+**16.** 张晨, 郑羲光, 信号处理方法及装置 ,`CN-113225574-B`,2023/1/20<br>
+**15.** 李楠, 郑羲光, 范欣悦, 张晨, 调整音频播放速度的方法、装置、电子设备及存储介质 ,`CN-112423019-B`,2022/11/22<br>
+**14.** 范欣悦, 张晨, 郑羲光, 音频信号处理方法及装置 ,`CN-113691927-B`,2022/11/11<br>
+**13.** 吴妍, 郑羲光, 一种去中心化的数据生态系统 ,`CN-108681811-B`,2022/10/18<br>
+**12.** 张晨, 董培, 邢文浩, 陈翔宇, 郑羲光, 立体声录制方法、电子设备及存储介质 ,`CN-111405416-B`,2022/6/24<br>
+**11.** 张晨, 郑羲光, 郭亮, 水印信息添加方法、提取方法、装置、设备及介质 ,`CN-111341329-B`,2022/1/21<br>
+**10.** 吴妍, 郑羲光, 一种多设备录音的自动切分对齐方法 ,`CN-108021675-B`,2021/11/9<br>
+**9.** 郑羲光, 张晨, 音频处理方法、装置、存储介质及电子设备 ,`CN-111326132-B`,2021/10/22<br>
+**8.** 任新蕾, 张旭, 郑羲光, 陈联武, 张晨, 语音增强模型的训练方法及装置、语音增强方法及装置 ,`CN-113241088-B`,2021/10/22<br>
+**7.** 张晨, 董培, 郭亮, 陈翔宇, 郑羲光, 邢文浩, 数据传输方法、装置、电子设备及存储介质 ,`CN-111313979-B`,2021/9/17<br>
+**6.** 孙学京, 马桂林, 郑羲光, 用于处理音频的方法、系统和存储介质 ,`CN-110636415-B`,2021/7/23<br>
+**5.** 尚梦宸, 郑羲光, 侯欢, 从歌曲中提取特征并转化为触觉感受的方法 ,`CN-109144257-B`,2021/7/20<br>
+**4.** 尚梦宸, 郑羲光, 杨维国, 一种胎心监测方法 ,`CN-109009058-B`,2021/4/16<br>
+**3.** 张新, 郭亮, 郑羲光, 张晨, 语音增强模型的训练方法和装置及语音增强方法和装置 ,`CN-112289333-B`,2021/4/13<br>
+**2.** 郑羲光, 尚梦宸, 刘飞, 一种从音频中提取目标源的方法及装置 ,`CN-107578784-B`,2020/12/11<br>
+**1.** 郑羲光, 杨维国, 一种方向自适应的空间音频处理方法及系统 ,`CN-107071689-B`,2018/12/14<br>
 
-
-
-
+-------------------
