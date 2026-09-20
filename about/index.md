@@ -85,10 +85,11 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 
 ## 期刊文章
 
+**13.** H. Wang, S. Zhao, X. Zheng, J. Zhou, X. Wang, Y. Qin, "RAMP+: Retrieval-Augmented MOS Prediction with Prior Knowledge Integration", `IEEE Transactions on Audio, Speech and Language Processing`, vol. 33, pp. 1520–1534, 2025.  (IF = 3.919, SCI Q1, CCF: B) <br>
 **12.** J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction”, `Applied Sciences`, vol. 12, no. 4, Art. no. 4, Jan. 2022. (IF = 2.679, SCI Q2)<br>
 **11.** M. Jia, J. Sun, and X. Zheng ”Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity”, `Applied Sciences`, pp. 8, no. 1: 123., 2018. (IF = 2.736, SCI Q2)<br>
 **10.** M. Jia, J. Zhang, C. Bao, and X. Zheng. ”A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity”, `Applied Sciences`, pp. 7, no.12: 1301., 2017. (IF = 2.736, SCI Q2)<br>
-**9.** X. Zheng, C Ritz, and J. Xi, ”Encoding and communicating navigable speech soundfields”, `Multimedia Tools and Applications`, pp. 1-22, 2015. (IF = 2.757, SCI Q2, CCF: C)<br>
+**9.** X. Zheng, C Ritz, and J. Xi, ”Encoding and communicating navigable speech soundfields”, `Multimedia Tools and Applications`, vol. 75, no. 9, pp. 5183–5204, 2016. (IF = 2.757, SCI Q2, CCF: C)<br>
 **8.** M. Jia, Z.Yang, C. Bao, X. Zheng and C. Ritz, ”Encoding Multiple Audio Objects using Intra-object Sparsity”, `IEEE Transactions on Audio, Speech and Language Processing`, vol. 23, no. 6, pp.1082-1095, Jun. 2015. (IF = 3.919, SCI Q1, CCF: B)<br>
 **7.** B. Cheng, C. Ritz, I. Burnett, and X. Zheng ”A General Compression Approach to Multi-Channel Three-Dimensional Audio”, `IEEE Transactions on Audio, Speech and Language Processing`, August, 2013. (IF = 3.919, SCI Q1, CCF: B)<br>
 **6.** X. Zheng, C. Ritz, and J. Xi, ”Collaborative Blind Source Separation Using Location Informed Spatial Microphones”, `IEEE Signal Processing Letters`, Jan, 2013. (IF = 3.109, SCI Q2, CCF: C)<br>
@@ -96,11 +97,17 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 **4.** C. H. Ritz, M. Shujau, X. Zheng, B. Cheng, and E. C. and I. S. Burnett, “Backward Compatible Spatialized Teleconferencing based on Squeezed Recordings”, in `Advances in Sound Localization`, Intech, Apr. 2011. (Book Chapter)<br>
 **3.** J. Huang, L. Wang, M. Jiang and X. Zheng, “Interferon Inducible Protein 27 Computational Network Construction and Comparison between the Frontal Cortex of HIV Encephalitis (HIVE) and HIVE-Control Patients”, `The Open Genomics Journal`, vol. 3, no. 1, pp. 1–8, Sep. 2010. <br>
 **2.** L. Wang, J. Huang, M. Jiang, and X. Zheng, “AFP computational secreted network construction and analysis between human hepatocellular carcinoma (HCC) and no-tumor hepatitis/cirrhotic liver tissues”, `Tumour Biol.`, vol. 31, no. 5, pp. 417–425, Oct. 2010. (IF = 3.526, SCI Q2)<br>
-**1.** L. Wang, Y. Sun, M. Jiang, and X. Zheng, “Integrative Decomposition Procedure and Kappa Statistics for the Distinguished Single Molecular Network Construction and Analysis”, `Journal of Biomedicine and Biotechnolog`, vol. 2009, pp. 1–7, 2009. <br>
+**1.** L. Wang, Y. Sun, M. Jiang, and X. Zheng, “Integrative Decomposition Procedure and Kappa Statistics for the Distinguished Single Molecular Network Construction and Analysis”, `BioMed Research International`, vol. 2009, Art. no. 726728, 2009. <br>
 
 -------------------
 
 ## 会议文章
+**29**. H Ren, C Ritz, J Zhao, X Zheng, D Jang, "A Metric for Predicting the Quality of Ambisonic Spatial Audio Reproduced Using Spatially Interpolated or Extrapolated Room Impulse Responses", `2025 IEEE International Conference on Acoustics, Speech, and Signal Processing`, 2025.<br>
+**28**. H Ren, C Ritz, J Zhao, X Zheng, D Jang, "Generating Room Impulse Responses Using Neural Networks Trained with Weighted Combinations of Acoustic Parameter Loss Functions", `2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference`, 2024.<br>
+**27**. H Ren, C Ritz, J Zhao, X Zheng, D Jang, "Towards a B-format Ambisonic Room Impulse Response Generator Using Conditional Generative Adversarial Network", `2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference`, 2024.<br>
+**26**. G. Yu, R. Han, C. Xu, H. Zhao, N. Li, C. Zhang, X. Zheng, C. Zhou, Q. Huang, B. Yu, "KS-NET: MULTI-BAND JOINT SPEECH RESTORATION AND ENHANCEMENT NETWORK FOR 2024 ICASSP SSI CHALLENGE", `2024 IEEE International Conference on Acoustics, Speech, and Signal Processing`, 2024.<br>
+**25**. X. Zheng, X. Ren, L. Chen, C. Xu, Y. Wei, "High Quality Speech Restoration", Proceedings of the 10th Conference on Sound and Music Technology: Revised Selected Papers, `Springer Nature`, 2024.<br>
+**24**. X. Zheng, X. Ren, L. Chen, C. Xu, Y. Wei, C. Zhang, L. Guo, B. Yu, "High Quality Speech Restoration from Device Colorated and Reverberated Speech", National Conference on Sound and Music Technology, `CSMT`, 2023, pp. 73–83.<br>
 **23**. H. Wang, S. Zhao, J. Zhou, X. Zheng, H. Sun, X. Wang, Y. Qin, "Uncertainty-Aware Mean Opinion Score Prediction", in Interspeech 2024, 2024. (CCF:B)<br>
 **22**. G. Yu, X. Zheng, N. Li, R. Han, C. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu, "BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution", in `ICASSP 2024`, 2024. (CCF:B)<br>
 **21**. C. Xu, X. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu,"Kaq: A Non-Intrusive Stacking Framework for Mean Opinion Score Prediction with Multi-Task Learning", in ASRU 2023, 2023.<br>
@@ -109,7 +116,7 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 **18**. H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, 2023. (CCF:B)<br>
 **17**. N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, `in Interspeech 2022` , pp.585-589, 2022. (CCF:C)<br>
 **16**. L. Chen, X. Ren, X. Zhang, X. Zheng, C. Zhang, L. Guo, and B. Yu, “Impairment Representation Learning for Speech Quality Assessment”, in `Interspeech 2022` , pp.3323-3327, 2022. (CCF:C)<br>
-**15**. L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION”, in ICME 2022 , in press. (CCF:B)<br>
+**15**. L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION”, in ICME 2022 , pp. 1–6, 2022. (CCF:B)<br>
 **14.** H. Zhao, N. Li, R. Han, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A DEEP HIERARCHICAL FUSION NETWORK FOR FULLBAND ACOUSTIC ECHO CANCELLATION”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp 9112-9116. (CCF:B)<br>
 **13.** E. Guizzo et al.,“L3DAS22 CHALLENGE: LEARNING 3D AUDIO SOURCES IN A REAL OFFICE ENVIRONMENT”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 9186-9190. (CCF:B)<br>
 **12.** X. Zhang, X. Ren, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A TWO-STEP BACKWARD COMPATIBLE FULLBAND SPEECH ENHANCEMENT SYSTEM”, in `2022 IEEE International Conference on Acoustics, Speech and Signal Processing`, 2022, pp. 7762-7766. (CCF:B)<br>
@@ -124,6 +131,8 @@ DOLBY ATOMS for Headphone（[3D 耳机虚拟环绕声](<https://xz725.github.io/
 **3.** X. Zheng, C. Ritz, and J. Xi, “Encoding navigable speech sources: an analysis by synthesis approach”, in `IEEE International Conference on Acoustics, Speech and Signal Processing`, March, 2012. (CCF:B)<br>
 **2.** X. Zheng and C. Ritz, “Hybrid FEC and MDC models for low-delay packet-loss recovery”, in `5th International Conference on Signal Processing and Communication Systems (ICSPCS)`, 2011, pp.1–6. <br>
 **1.** X. Zheng and C. Ritz, “Compression of navigable speech soundfield zones”, in `Multimedia Signal Processing (MMSP)`, 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.<br>
+
+**博士论文** X. Zheng, “Soundfield navigation: Separation, compression and transmission”, PhD thesis, University of Wollongong, 2013.<br>
 
 -------------------
 
