@@ -1,47 +1,38 @@
 /* Custom additions on top of poole.css + lanyon.css (Lanyon theme). */
 
-/* ---- Top navigation bar (replaces the off-canvas sidebar) ---- */
-.topbar {
-  background-color: #202020;                 /* same dark tone as the old sidebar */
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+/* ---- Sidebar pinned: visible at all times ---- */
+.sidebar {
+  left: 0;              /* override off-canvas hiding (-14rem) */
+  visibility: visible;
 }
-.topbar-inner {
-  display: flex;
-  flex-wrap: wrap;                           /* wraps to multiple rows on narrow screens */
-  align-items: center;
-  max-width: 38rem;
-  margin: 0 auto;
-  padding: 0 1rem;
+.sidebar-toggle {
+  display: none;        /* no longer need the hamburger toggle */
 }
 @media (min-width: 48em) {
-  .topbar-inner {
-    max-width: 44rem;
-    padding: 0 1.5rem;
+  .wrap {
+    margin-left: 14rem; /* make room for the fixed sidebar */
   }
 }
-.topbar-item {
-  display: inline-block;
-  padding: 0.7rem 0.8rem;
-  font-size: 0.9rem;
-  color: rgba(255, 255, 255, 0.75);
+@media (max-width: 47.9em) {
+  .sidebar {
+    position: static;   /* on phones: sidebar sits on top as a block */
+    width: auto;
+  }
 }
-.topbar-item.active,
-a.topbar-item:hover,
-a.topbar-item:focus {
-  color: #fff;
-  text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.1);  /* same highlight as old sidebar */
+
+/* Sidebar: accommodate the longer tab list */
+.sidebar-nav-item {
+  font-size: 0.95rem;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
 }
-.topbar-lang {
-  margin-left: auto;                          /* language switch pushed to the right */
-  padding: 0.7rem 0;
-}
-.topbar-lang a {
-  font-size: 0.85rem;
+
+/* Language switcher */
+.lang-switch a {
   color: rgba(255, 255, 255, 0.75);
   text-decoration: underline;
 }
-.topbar-lang a:hover {
+.lang-switch a:hover {
   color: #fff;
 }
 
