@@ -20,11 +20,12 @@
   }
 }
 
-/* Blank space above the first (Home) tab — tuned so the Home tab text
-   aligns with the site-name line in the masthead */
-.sidebar-nav {
-  margin-top: 0.55rem;
-  border-top: none;
+/* Sidebar starts below the site-name line (masthead: 1rem padding-top +
+   25px title + 1rem padding-bottom + 1px border = 3.7rem) */
+@media (min-width: 48em) {
+  .sidebar {
+    top: 3.7rem;
+  }
 }
 
 /* Sidebar: accommodate the longer tab list */
