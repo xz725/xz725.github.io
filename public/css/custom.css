@@ -60,9 +60,11 @@
   color: #9a9a9a;
 }
 
-/* Site name (masthead) moved to the left, between sidebar and main content */
+/* Site name (masthead) at the leftmost top, above the sidebar */
 @media (min-width: 48em) {
   .masthead .container {
     margin-left: 0;
+    max-width: none;
+    padding-left: 1.5rem;   /* align with sidebar item padding */
   }
 }
