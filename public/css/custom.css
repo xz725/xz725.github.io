@@ -1,5 +1,25 @@
 /* Custom additions on top of poole.css + lanyon.css (Lanyon theme). */
 
+/* ---- Sidebar pinned: visible at all times ---- */
+.sidebar {
+  left: 0;              /* override off-canvas hiding (-14rem) */
+  visibility: visible;
+}
+.sidebar-toggle {
+  display: none;        /* no longer need the hamburger toggle */
+}
+@media (min-width: 48em) {
+  .wrap {
+    margin-left: 14rem; /* make room for the fixed sidebar */
+  }
+}
+@media (max-width: 47.9em) {
+  .sidebar {
+    position: static;   /* on phones: sidebar sits on top as a block */
+    width: auto;
+  }
+}
+
 /* Sidebar: accommodate the longer tab list */
 .sidebar-nav-item {
   font-size: 0.95rem;

@@ -46,7 +46,7 @@ layout: default
       <p>
         <strong>{{ e.start }} – {{ e.end }}</strong><br>
         <strong>{% if zh %}{{ e.school_zh }}{% else %}{{ e.school_en }}{% endif %}</strong><br>
-        <code>{{ e.degree }}</code>{% if e.major != "" %} ({{ e.major }}){% endif %}
+        <code>{% if zh %}{{ e.degree_zh }}{% else %}{{ e.degree_en }}{% endif %}</code>{% assign major = e.major_zh %}{% unless zh %}{% assign major = e.major_en %}{% endunless %}{% if major != "" %} ({{ major }}){% endif %}
         {% if e.advisor != "" %}<br>{% if zh %}导师{% else %}Advisor{% endif %}: {{ e.advisor }}{% endif %}
       </p>
     {% endfor %}
@@ -89,14 +89,14 @@ layout: default
   {% when "patents_intl" %}
     {% for e in d.patents_intl %}
       <p>
-        <strong>{{ e.num }}.</strong> {{ e.inventors }}, &ldquo;{% if zh and e.title_zh != "" %}{{ e.title_zh }}{% else %}{{ e.title_en }}{% endif %}&rdquo;, <code>{{ e.pid }}</code>, {% if zh %}{{ e.year }} 年授权{% else %}granted on {{ e.year }}{% endif %}.
+        <strong>{{ e.num }}.</strong> &ldquo;{% if zh and e.title_zh != "" %}{{ e.title_zh }}{% else %}{{ e.title_en }}{% endif %}&rdquo;, <code>{{ e.pid }}</code>, {% if zh %}{{ e.year }} 年授权{% else %}granted on {{ e.year }}{% endif %}.
       </p>
     {% endfor %}
 
   {% when "patents_cn" %}
     {% for e in d.patents_cn %}
       <p>
-        <strong>{{ e.num }}.</strong> {{ e.inventors }}, {{ e.name }}, <code>{{ e.pid }}</code>, {{ e.year }}/{{ e.month }}/{{ e.day }}
+        <strong>{{ e.num }}.</strong> {{ e.name }}, <code>{{ e.pid }}</code>, {{ e.year }}/{{ e.month }}/{{ e.day }}
       </p>
     {% endfor %}
 

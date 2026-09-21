@@ -160,33 +160,42 @@
    "end": "2013.12",
    "school_zh": "澳大利亚卧龙岗大学",
    "school_en": "University of Wollongong",
-   "country": "澳大利亚",
-   "degree": "博士",
-   "major": "空间音频信号处理",
+   "country_zh": "澳大利亚",
+   "degree_zh": "博士",
+   "major_zh": "空间音频信号处理",
    "advisor": "Prof. Christian Ritz, Prof. Jiangtao Xi",
-   "note": ""
+   "note": "",
+   "country_en": "Australia",
+   "degree_en": "PhD",
+   "major_en": "Spatial Audio Signal Processing"
   },
   {
    "start": "2005.09",
    "end": "2009.06",
    "school_zh": "北京邮电大学",
    "school_en": "Beijing University of Posts and Telecommunications",
-   "country": "中国",
-   "degree": "工学学士",
-   "major": "电信工程及管理（联合培养）",
+   "country_zh": "中国",
+   "degree_zh": "工学学士",
+   "major_zh": "电信工程及管理（联合培养）",
    "advisor": "",
-   "note": ""
+   "note": "",
+   "country_en": "China",
+   "degree_en": "Bachelor of Engineering",
+   "major_en": "Telecommunications Engineering and Management (Joint Program)"
   },
   {
    "start": "2005.09",
    "end": "2009.06",
    "school_zh": "伦敦大学玛丽女王学院",
    "school_en": "Queen Mary University of London",
-   "country": "英国",
-   "degree": "工学学士",
-   "major": "电信工程及管理（联合培养）",
+   "country_zh": "英国",
+   "degree_zh": "工学学士",
+   "major_zh": "电信工程及管理（联合培养）",
    "advisor": "",
-   "note": ""
+   "note": "",
+   "country_en": "United Kingdom",
+   "degree_en": "Bachelor of Engineering",
+   "major_en": "Telecommunications Engineering and Management (Joint Program)"
   }
  ],
  "honors": [

@@ -97,13 +97,16 @@ def build(wb):
         for r in rows_of(wb["学术兼职与职称"]) if r[0]
     ]
 
-    # 教育经历：序号|开始|结束|学校中|学校英|国家|学位|专业|导师|备注
+    # 教育经历：序号|开始|结束|学校中|学校英|国家|学位|专业|导师|备注|国家英|学位英|专业英
     data["education"] = [
         {
             "start": r[1], "end": r[2],
             "school_zh": r[3], "school_en": r[4],
-            "country": r[5], "degree": r[6], "major": r[7],
+            "country_zh": r[5], "degree_zh": r[6], "major_zh": r[7],
             "advisor": r[8], "note": r[9] if len(r) > 9 else "",
+            "country_en": r[10] if len(r) > 10 else "",
+            "degree_en": r[11] if len(r) > 11 else "",
+            "major_en": r[12] if len(r) > 12 else "",
         }
         for r in rows_of(wb["教育经历"]) if r[0]
     ]
