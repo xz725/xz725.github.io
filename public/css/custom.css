@@ -20,6 +20,12 @@
   }
 }
 
+/* Blank space above the first (Home) tab */
+.sidebar-nav {
+  margin-top: 2.5rem;
+  border-top: none;
+}
+
 /* Sidebar: accommodate the longer tab list */
 .sidebar-nav-item {
   font-size: 0.95rem;
