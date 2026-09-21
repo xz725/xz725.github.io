@@ -20,9 +20,10 @@
   }
 }
 
-/* Blank space above the first (Home) tab */
+/* Blank space above the first (Home) tab — matches the masthead's 1rem
+   padding-top so the Home tab aligns with the site-name line */
 .sidebar-nav {
-  margin-top: 2.5rem;
+  margin-top: 1rem;
   border-top: none;
 }
 
@@ -56,4 +57,11 @@
   font-size: 0.6em;
   font-weight: normal;
   color: #9a9a9a;
+}
+
+/* Site name (masthead) moved to the left, between sidebar and main content */
+@media (min-width: 48em) {
+  .masthead .container {
+    margin-left: 0;
+  }
 }
