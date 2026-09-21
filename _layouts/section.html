@@ -68,7 +68,6 @@ layout: default
     {% for e in d.journals %}
       <p>
         <strong>{{ e.num }}.</strong> {{ e.citation }}
-        {% if zh and e.note_zh != "" %}<br><span class="note">{{ e.note_zh }}</span>{% endif %}
       </p>
     {% endfor %}
 
@@ -76,13 +75,11 @@ layout: default
     {% for e in d.conferences %}
       <p>
         <strong>{{ e.num }}.</strong> {{ e.citation }}
-        {% if zh and e.note_zh != "" %}<br><span class="note">{{ e.note_zh }}</span>{% endif %}
       </p>
     {% endfor %}
     {% for e in d.thesis %}
       <p>
         <strong>{% if zh %}博士论文{% else %}PhD Thesis{% endif %}.</strong> {{ e.citation }}
-        {% if zh and e.note_zh != "" %}<br><span class="note">{{ e.note_zh }}</span>{% endif %}
       </p>
     {% endfor %}
 
