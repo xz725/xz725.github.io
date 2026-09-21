@@ -1,39 +1,26 @@
 ---
 layout: default
 title: Home
+section: home
+lang: zh
+title_zh: 首页
+title_en: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class="page">
+  <h1 class="page-title">郑羲光 <small>Xiguang Zheng</small></h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+  <p>
+    现任 <strong>大疆创新（DJI）</strong> 音频组负责人、音频总工，负责 DJI 各产品线音频系统软硬件交付、规划及音频团队管理。<br>
+    IEEE 高级会员，澳大利亚卧龙岗大学 / 南开大学博士生导师（兼）。
+  </p>
 
-    {{ post.content | strip_html | truncatewords: 50 }}
+  <p>
+    研究方向：音频信号处理，包括语音增强、回声消除、音频分离、空间音频、音频质量评价、音频编解码等。
+    发表顶会论文数十篇，授权发明专利 100 余件，多次获得国际音频挑战赛冠军。
+  </p>
 
-  </div>
-  {% endfor %}
+  <p>
+    联系：<a href="mailto:xzhen@ieee.org">xzhen@ieee.org</a>
+  </p>
 </div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-

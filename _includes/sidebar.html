@@ -9,11 +9,25 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/about/">About</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/projects/">Projects</a>
-
+    {% for t in site.tabs %}
+      {% if page.lang == "en" %}
+        {% assign label = t.en %}
+        {% assign url = t.url | prepend: "/en" | replace: "//", "/" %}
+      {% else %}
+        {% assign label = t.zh %}
+        {% assign url = t.url %}
+      {% endif %}
+      <a class="sidebar-nav-item{% if page.section == t.id %} active{% endif %}" href="{{ site.baseurl }}{{ url }}">{{ label }}</a>
+    {% endfor %}
   </nav>
+
+  <div class="sidebar-item lang-switch">
+    {% if page.lang == "en" %}
+      <a href="{{ site.baseurl }}{{ page.url | remove_first: "/en" }}">中文</a>
+    {% else %}
+      <a href="{{ site.baseurl }}{{ page.url | prepend: "/en" | replace: "//", "/" }}">English</a>
+    {% endif %}
+  </div>
 
   <div class="sidebar-item">
     <p>

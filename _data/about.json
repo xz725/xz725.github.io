@@ -1,0 +1,1797 @@
+{
+ "experience": [
+  {
+   "start": "2023.11",
+   "end": "至今",
+   "org_zh": "大疆创新",
+   "org_en": "DJI",
+   "dept": "音频组",
+   "role_zh": "音频组负责人、音频总工",
+   "role_en": "Head of Audio Group & Chief Audio Engineer",
+   "status": "在职",
+   "desc_zh": "负责 DJI 各产品线（手持影像：DJI Mic, OSMO Action, OSMO Pocket, OSMO Mobile等；无人机相关：无人机、遥控器、喊话器、眼镜等）音频系统软硬件交付、规划及音频团队（软件，硬件，算法，QA）管理。期间完成对本代各产品线的顺利交付，发布后取得较好经营结果；完成对未来产品音频软硬件技术规划体系的建立",
+   "desc_en": "Own audio system SW/HW delivery, planning and the audio team (SW/HW/algorithm/QA) across DJI product lines (handheld imaging: DJI Mic, OSMO Action, OSMO Pocket, OSMO Mobile, etc.; UAV-related: drones, remote controllers, megaphones, goggles). Delivered all current product lines with strong business results; established the audio technology planning system for future products.*",
+   "note": "2024.02 起任音频总工"
+  },
+  {
+   "start": "2023.11",
+   "end": "至今",
+   "org_zh": "大疆创新",
+   "org_en": "DJI",
+   "dept": "音频组-算法小组",
+   "role_zh": "音频组算法小组负责人",
+   "role_en": "Head of the Audio Algorithm Group",
+   "status": "在职",
+   "desc_zh": "负责 DJI 各产品线音频算法技术方案的交付、预研及团队管理。完成算法自研体系的研发及落地，效果上达到或超过外部供应商及竞品水平。已完成工程化落地，现全面替代外部供应商方案实现全部算法自研。完成算法规划，预期下代产品的部分核心特性可以与竞品形成技术代差。",
+   "desc_en": "Own audio algorithm delivery, pre-research and team management across DJI product lines. Built the in-house algorithm R&D system; quality matches or beats external vendors and competitors. Now fully replacing vendor solutions with self-developed algorithms; the roadmap is expected to create a technology gap vs. competitors in next-gen products.*",
+   "note": ""
+  },
+  {
+   "start": "2024.11",
+   "end": "至今",
+   "org_zh": "大疆创新",
+   "org_en": "DJI",
+   "dept": "DJI Mic 产品线",
+   "role_zh": "DJI Mic 产品线软件总工",
+   "role_en": "Chief Software Engineer, DJI Mic Product Line",
+   "status": "在职",
+   "desc_zh": "负责 DJI Mic 产品软件方案，包括 SoC 选型，音频、平台、无线模块系统公版方案设计。",
+   "desc_en": "Own the DJI Mic product software architecture, including SoC selection and the reference design of audio, platform and wireless modules.*",
+   "note": ""
+  },
+  {
+   "start": "2019.09",
+   "end": "2023.10",
+   "org_zh": "快手科技",
+   "org_en": "Kuaishou Technology",
+   "dept": "音视频团队-音频算法",
+   "role_zh": "音频算法技术负责人",
+   "role_en": "Lead of Audio Algorithms",
+   "status": "已离职",
+   "desc_zh": "在快手音视频团队，负责音频算法研发。从零开始建设音频算法小组，已落地了快手主站、快影等多个应用的音频特性，如语音降噪、回声消除、音频分离、音频内容理解、风格转换、变声、音频多码率编码器、K歌音效、音频后处理、人声美化及无参考语音、音频评测等方向。发表顶会论文十余篇，专利数十篇。获得数项国际顶会音频挑战赛冠军。",
+   "desc_en": "Built the audio algorithm group from scratch and shipped features for Kuaishou's main app, Kuaiying and more: speech denoising, AEC, source separation, audio content understanding, style transfer, voice conversion, multi-bitrate audio codecs, karaoke effects, audio post-processing, voice beautification, and no-reference speech/audio quality assessment. Published 10+ top-conference papers and dozens of patents; won several international audio challenge championships.*",
+   "note": ""
+  },
+  {
+   "start": "2018.01",
+   "end": "2019.08",
+   "org_zh": "西藏至慧桥资产管理有限公司",
+   "org_en": "Tibet WiseBridge Asset Management",
+   "dept": "",
+   "role_zh": "投资总监，合伙人",
+   "role_en": "Director of Investment (Partner)",
+   "status": "已离职",
+   "desc_zh": "作为合伙人加入至汇桥资管，主要负责基于数量化的交易算法研发。自研并实盘了市场中性的股票选股策略、指数择时策略、股指期货择时策略、FOF 投资组合策略等。管理资金规模人民币 5000 万元。资管产品获得2018年中信期货全国私募实盘大赛股票策略组第一名；2020年 wind 三年期全国最强私募基金 FOF。",
+   "desc_en": "Led quantitative trading algorithm R&D: market-neutral stock selection, index timing, stock-index futures timing, and FOF portfolio strategies, traded live with RMB 50M AUM. The fund won 1st place in CITIC Futures' 2018 national live-trading competition (equity strategy) and Wind's 2020 3-year Best Private FOF.*",
+   "note": ""
+  },
+  {
+   "start": "2016.06",
+   "end": "2017.12",
+   "org_zh": "音曼（北京）科技有限公司",
+   "org_en": "Yinkman (Beijing) Technology",
+   "dept": "",
+   "role_zh": "首席研究员，合伙人",
+   "role_en": "Principal Researcher (Partner)",
+   "status": "已离职",
+   "desc_zh": "作为联合创始人加入音曼科技（获天津九安医疗旗下尚势资本千万级天使投资）。主要负责算法研究，知识产权，同时和CEO一起把控产品量产交付。发布音曼OMNOS回音壁音箱产品（德国红点设计奖）、移动 KTV 核心 DSP 算法板、Ambisonic 声场麦克风等音频硬件产品，累计实现近千万销售额。",
+   "desc_en": "Co-founded Yinkman Technology (angel-funded by Shishang Capital). Led algorithm research and IP, and co-managed product mass production. Shipped the OMNOS soundbar (Red Dot Design Award), a mobile-KTV DSP board and an Ambisonic sound-field microphone, achieving near-RMB-10M cumulative sales.*",
+   "note": ""
+  },
+  {
+   "start": "2013.03",
+   "end": "2016.05",
+   "org_zh": "杜比实验室",
+   "org_en": "Dolby Laboratories",
+   "dept": "",
+   "role_zh": "高级研究员",
+   "role_en": "Senior Researcher",
+   "status": "已离职",
+   "desc_zh": "博士毕业后加入杜比实验室，作为杜比实验室全球最年轻的高级研究员，参与了杜比全景声在移动端落地的多个重点项目的算法研究工作，如 DOLBY ATMOS for Headphone、DOLBY ATMOS for Mobile（全球第一个搭载杜比全景声的平板电脑：Lenovo Yoga 3）等。",
+   "desc_en": "The youngest Senior Researcher in Dolby at the time. Algorithm research for key Dolby Atmos mobile programs, e.g. Dolby Atmos for Headphones and Dolby Atmos for Mobile (world's first tablet with Dolby Atmos: Lenovo Yoga 3).",
+   "note": ""
+  }
+ ],
+ "appointments": [
+  {
+   "category": "学术兼职",
+   "start": "2019.07",
+   "end": "2024.12",
+   "org_zh": "澳大利亚卧龙岗大学",
+   "org_en": "University of Wollongong",
+   "role_zh": "荣誉高级研究员",
+   "role_en": "Honorary Senior Research Fellow",
+   "note": ""
+  },
+  {
+   "category": "学术兼职",
+   "start": "2023.11",
+   "end": "至今",
+   "org_zh": "澳大利亚卧龙岗大学",
+   "org_en": "University of Wollongong",
+   "role_zh": "博士生导师",
+   "role_en": "PhD Supervisor",
+   "note": "作为导师之一带一名博士研究生"
+  },
+  {
+   "category": "学术兼职",
+   "start": "2021.11",
+   "end": "至今",
+   "org_zh": "南开大学 HLT 实验室",
+   "org_en": "Nankai University, HLT Lab",
+   "role_zh": "博士生导师",
+   "role_en": "PhD Supervisor",
+   "note": "作为导师之一带一名博士研究生"
+  },
+  {
+   "category": "学术兼职",
+   "start": "长期",
+   "end": "",
+   "org_zh": "",
+   "org_en": "",
+   "role_zh": "信号处理顶会审稿人",
+   "role_en": "Reviewer",
+   "note": "ICASSP / Interspeech / WASPAA / IEEE ASRU / IJCNN"
+  },
+  {
+   "category": "会员职称",
+   "start": "",
+   "end": "",
+   "org_zh": "IEEE",
+   "org_en": "IEEE",
+   "role_zh": "高级会员",
+   "role_en": "Senior Member",
+   "note": ""
+  },
+  {
+   "category": "会员职称",
+   "start": "",
+   "end": "",
+   "org_zh": "",
+   "org_en": "",
+   "role_zh": "高级工程师",
+   "role_en": "Senior Engineer (China professional title)",
+   "note": ""
+  }
+ ],
+ "education": [
+  {
+   "start": "2009.08",
+   "end": "2013.12",
+   "school_zh": "澳大利亚卧龙岗大学",
+   "school_en": "University of Wollongong",
+   "country": "澳大利亚",
+   "degree": "博士",
+   "major": "空间音频信号处理",
+   "advisor": "Prof. Christian Ritz, Prof. Jiangtao Xi",
+   "note": ""
+  },
+  {
+   "start": "2005.09",
+   "end": "2009.06",
+   "school_zh": "北京邮电大学",
+   "school_en": "Beijing University of Posts and Telecommunications",
+   "country": "中国",
+   "degree": "工学学士",
+   "major": "电信工程及管理（联合培养）",
+   "advisor": "",
+   "note": ""
+  },
+  {
+   "start": "2005.09",
+   "end": "2009.06",
+   "school_zh": "伦敦大学玛丽女王学院",
+   "school_en": "Queen Mary University of London",
+   "country": "英国",
+   "degree": "工学学士",
+   "major": "电信工程及管理（联合培养）",
+   "advisor": "",
+   "note": ""
+  }
+ ],
+ "honors": [
+  {
+   "year": "2024",
+   "category": "挑战赛",
+   "rank": "第一名",
+   "name_zh": "ICASSP 2024 微软深度丢包补偿挑战赛",
+   "name_en": "ICASSP 2024 Microsoft Deep Audio PLC Challenge",
+   "issuer": "Microsoft",
+   "note": "RNK 1"
+  },
+  {
+   "year": "2024",
+   "category": "挑战赛",
+   "rank": "第一名",
+   "name_zh": "ICASSP 2024 微软语音音质增强挑战赛",
+   "name_en": "ICASSP 2024 Microsoft Speech Signal Improvement Challenge",
+   "issuer": "Microsoft",
+   "note": "RNK 1"
+  },
+  {
+   "year": "2023",
+   "category": "挑战赛",
+   "rank": "第二名",
+   "name_zh": "ICASSP 2023 微软回声消除挑战赛",
+   "name_en": "ICASSP 2023 Microsoft Acoustic Echo Cancellation Challenge",
+   "issuer": "Microsoft",
+   "note": "RNK 2"
+  },
+  {
+   "year": "2022",
+   "category": "挑战赛",
+   "rank": "第一名",
+   "name_zh": "INTERSPEECH 2022 微软深度丢包补偿挑战赛",
+   "name_en": "Interspeech 2022 Microsoft Deep Audio PLC Challenge",
+   "issuer": "Microsoft",
+   "note": "RNK 1"
+  },
+  {
+   "year": "2022",
+   "category": "挑战赛",
+   "rank": "第二名",
+   "name_zh": "INTERSPEECH 2022 腾讯语音音质预测挑战赛",
+   "name_en": "Interspeech 2022 Tencent Speech Quality Prediction Challenge",
+   "issuer": "Tencent",
+   "note": "RNK 2"
+  },
+  {
+   "year": "2022",
+   "category": "挑战赛",
+   "rank": "第二名",
+   "name_zh": "IEEE ICASSP 2022 微软回声消除挑战赛",
+   "name_en": "ICASSP 2022 Microsoft Acoustic Echo Cancellation Challenge",
+   "issuer": "Microsoft",
+   "note": "RNK 2"
+  },
+  {
+   "year": "2022",
+   "category": "挑战赛",
+   "rank": "第四名",
+   "name_zh": "IEEE ICASSP 2022 微软深度降噪挑战赛任务 2",
+   "name_en": "ICASSP 2022 Microsoft Deep Noise Suppression Challenge, Task 2",
+   "issuer": "Microsoft",
+   "note": "RNK 4"
+  },
+  {
+   "year": "2021",
+   "category": "挑战赛",
+   "rank": "第一名",
+   "name_zh": "INTERSPEECH 2021 腾讯多通道降噪挑战赛任务 1",
+   "name_en": "Interspeech 2021 Tencent Multi-Channel Denoising Challenge, Task 1",
+   "issuer": "Tencent",
+   "note": "RNK 1"
+  },
+  {
+   "year": "2021",
+   "category": "挑战赛",
+   "rank": "第一名",
+   "name_zh": "INTERSPEECH 2021 腾讯多通道降噪挑战赛任务 2",
+   "name_en": "Interspeech 2021 Tencent Multi-Channel Denoising Challenge, Task 2",
+   "issuer": "Tencent",
+   "note": "RNK 1"
+  },
+  {
+   "year": "2021",
+   "category": "挑战赛",
+   "rank": "第一名",
+   "name_zh": "IEEE MLSP 2021 L3DAS21 多通道降噪挑战赛任务 1",
+   "name_en": "IEEE MLSP 2021 L3DAS21 Multi-Channel Denoising Challenge, Task 1",
+   "issuer": "IEEE MLSP",
+   "note": "RNK 1"
+  },
+  {
+   "year": "2021",
+   "category": "挑战赛",
+   "rank": "第三名",
+   "name_zh": "INTERSPEECH 2021 微软回声消除挑战赛",
+   "name_en": "Interspeech 2021 Microsoft Acoustic Echo Cancellation Challenge",
+   "issuer": "Microsoft",
+   "note": "RNK 3"
+  },
+  {
+   "year": "2015",
+   "category": "学术荣誉",
+   "rank": "",
+   "name_zh": "Elsevier Computers and Electrical Engineering 杰出审稿人奖",
+   "name_en": "Elsevier Computers and Electrical Engineering Outstanding Reviewer Award",
+   "issuer": "Elsevier",
+   "note": ""
+  },
+  {
+   "year": "2023",
+   "category": "人才计划",
+   "rank": "",
+   "name_zh": "香港优秀人才入境计划（香港优才）",
+   "name_en": "Hong Kong Quality Migrant Admission Scheme (QMAS)",
+   "issuer": "香港入境事务处",
+   "note": "获批"
+  },
+  {
+   "year": "2013",
+   "category": "奖学金",
+   "rank": "",
+   "name_zh": "教育部国家优秀自费留学生奖学金",
+   "name_en": "Chinese Government Award for Outstanding Self-financed Students Abroad",
+   "issuer": "中国教育部",
+   "note": ""
+  },
+  {
+   "year": "2010-2012",
+   "category": "奖学金",
+   "rank": "",
+   "name_zh": "卧龙岗大学博士全额奖学金",
+   "name_en": "University of Wollongong Postgraduate Research Scholarship",
+   "issuer": "UOW",
+   "note": ""
+  },
+  {
+   "year": "2010-2012",
+   "category": "奖学金",
+   "rank": "",
+   "name_zh": "澳大利亚研究委员会博士全额奖学金",
+   "name_en": "Australian Research Council Scholarship",
+   "issuer": "ARC",
+   "note": "空间音频信号处理方向"
+  }
+ ],
+ "journals": [
+  {
+   "num": "13",
+   "year": "2025",
+   "citation": "H. Wang, S. Zhao, X. Zheng, J. Zhou, X. Wang, Y. Qin, \"RAMP+: Retrieval-Augmented MOS Prediction with Prior Knowledge Integration\", IEEE Transactions on Audio, Speech and Language Processing, vol. 33, pp. 1520–1534, 2025.  (IF = 3.919, SCI Q1, CCF: B)",
+   "note_zh": "检索增强的MOS预测：融合先验知识"
+  },
+  {
+   "num": "12",
+   "year": "2022",
+   "citation": "J. Zhao, X.Zheng, C. Ritz and D. Jiang “Interpolating the Directional Room Impulse Response for Dynamic Spatial Audio Reproduction”, Applied Sciences, vol. 12, no. 4, Art. no. 4, Jan. 2022. (IF = 2.679, SCI Q2)",
+   "note_zh": "面向动态空间音频重放的方向性房间脉冲响应插值"
+  },
+  {
+   "num": "11",
+   "year": "2018",
+   "citation": "M. Jia, J. Sun, and X. Zheng ”Multiple Speech Source Separation Using Inter-Channel Correlation and Relaxed Sparsity”, Applied Sciences, pp. 8, no. 1: 123., 2018. (IF = 2.736, SCI Q2)",
+   "note_zh": "基于声道间相关性与松弛稀疏性的多语音声源分离"
+  },
+  {
+   "num": "10",
+   "year": "2017",
+   "citation": "M. Jia, J. Zhang, C. Bao, and X. Zheng. ”A Psychoacoustic-Based Multiple Audio Object Coding Approach via Intra-Object Sparsity”, Applied Sciences, pp. 7, no.12: 1301., 2017. (IF = 2.736, SCI Q2)",
+   "note_zh": "基于对象内稀疏性的心理声学多音频对象编码"
+  },
+  {
+   "num": "9",
+   "year": "2016",
+   "citation": "X. Zheng, C Ritz, and J. Xi, ”Encoding and communicating navigable speech soundfields”, Multimedia Tools and Applications, vol. 75, no. 9, pp. 5183–5204, 2016. (IF = 2.757, SCI Q2, CCF: C)",
+   "note_zh": "可导航语音声场的编码与传输"
+  },
+  {
+   "num": "8",
+   "year": "2015",
+   "citation": "M. Jia, Z.Yang, C. Bao, X. Zheng and C. Ritz, ”Encoding Multiple Audio Objects using Intra-object Sparsity”, IEEE Transactions on Audio, Speech and Language Processing, vol. 23, no. 6, pp.1082-1095, Jun. 2015. (IF = 3.919, SCI Q1, CCF: B)",
+   "note_zh": "基于对象内稀疏性的多音频对象编码"
+  },
+  {
+   "num": "7",
+   "year": "2013",
+   "citation": "B. Cheng, C. Ritz, I. Burnett, and X. Zheng ”A General Compression Approach to Multi-Channel Three-Dimensional Audio”, IEEE Transactions on Audio, Speech and Language Processing, August, 2013. (IF = 3.919, SCI Q1, CCF: B)",
+   "note_zh": "多通道三维音频的通用压缩方法"
+  },
+  {
+   "num": "6",
+   "year": "2012",
+   "citation": "X. Zheng, C. Ritz, and J. Xi, ”Collaborative Blind Source Separation Using Location Informed Spatial Microphones”, IEEE Signal Processing Letters, Jan, 2013. (IF = 3.109, SCI Q2, CCF: C)",
+   "note_zh": "基于位置信息空间麦克风阵列的协作盲源分离"
+  },
+  {
+   "num": "5",
+   "year": "2012",
+   "citation": "X. Zheng, C. Ritz, and J. Xi, ”Encoding Navigable Speech Sources: A Psychoacoustic-based Analysis-By-Synthesis Approach”, IEEE Transactions on Audio, Speech and Language Processing, Jan, 2013. (IF = 3.919, SCI Q1, CCF: B)",
+   "note_zh": "可导航语音声源编码：基于心理声学的分析-合成方法"
+  },
+  {
+   "num": "4",
+   "year": "2011",
+   "citation": "C. H. Ritz, M. Shujau, X. Zheng, B. Cheng, and E. C. and I. S. Burnett, “Backward Compatible Spatialized Teleconferencing based on Squeezed Recordings”, in Advances in Sound Localization, Intech, Apr. 2011. (Book Chapter)",
+   "note_zh": "基于压缩录音的反向兼容空间化电话会议（书章）"
+  },
+  {
+   "num": "3",
+   "year": "2010",
+   "citation": "J. Huang, L. Wang, M. Jiang and X. Zheng, “Interferon Inducible Protein 27 Computational Network Construction and Comparison between the Frontal Cortex of HIV Encephalitis (HIVE) and HIVE-Control Patients”, The Open Genomics Journal, vol. 3, no. 1, pp. 1–8, Sep. 2010.",
+   "note_zh": "HIV脑炎患者额叶皮层干扰素α诱导蛋白27计算网络构建与比较"
+  },
+  {
+   "num": "2",
+   "year": "2010",
+   "citation": "L. Wang, J. Huang, M. Jiang, and X. Zheng, “AFP computational secreted network construction and analysis between human hepatocellular carcinoma (HCC) and no-tumor hepatitis/cirrhotic liver tissues”, Tumour Biol., vol. 31, no. 5, pp. 417–425, Oct. 2010. (IF = 3.526, SCI Q2)",
+   "note_zh": "人肝细胞癌与无肿瘤肝炎/肝硬化肝组织间AFP计算分泌网络构建与分析"
+  },
+  {
+   "num": "1",
+   "year": "2009",
+   "citation": "L. Wang, Y. Sun, M. Jiang, and X. Zheng, “Integrative Decomposition Procedure and Kappa Statistics for the Distinguished Single Molecular Network Construction and Analysis”, BioMed Research International, vol. 2009, Art. no. 726728, 2009.",
+   "note_zh": "区分单分子网络构建与分析的积分分解程序与Kappa统计"
+  }
+ ],
+ "conferences": [
+  {
+   "num": "29",
+   "year": "2025",
+   "citation": "H Ren, C Ritz, J Zhao, X Zheng, D Jang, \"A Metric for Predicting the Quality of Ambisonic Spatial Audio Reproduced Using Spatially Interpolated or Extrapolated Room Impulse Responses\", 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025.",
+   "note_zh": "预测空间插值/外推RIR所重放环境声空间音频质量的度量"
+  },
+  {
+   "num": "28",
+   "year": "2024",
+   "citation": "H Ren, C Ritz, J Zhao, X Zheng, D Jang, \"Generating Room Impulse Responses Using Neural Networks Trained with Weighted Combinations of Acoustic Parameter Loss Functions\", 2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference, 2024.",
+   "note_zh": "使用加权声学参数损失函数训练的神经网络生成房间脉冲响应"
+  },
+  {
+   "num": "27",
+   "year": "2024",
+   "citation": "H Ren, C Ritz, J Zhao, X Zheng, D Jang, \"Towards a B-format Ambisonic Room Impulse Response Generator Using Conditional Generative Adversarial Network\", 2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference, 2024.",
+   "note_zh": "基于条件生成对抗网络的B格式环境声房间脉冲响应生成"
+  },
+  {
+   "num": "26",
+   "year": "2024",
+   "citation": "G. Yu, R. Han, C. Xu, H. Zhao, N. Li, C. Zhang, X. Zheng, C. Zhou, Q. Huang, B. Yu, \"KS-NET: MULTI-BAND JOINT SPEECH RESTORATION AND ENHANCEMENT NETWORK FOR 2024 ICASSP SSI CHALLENGE\", 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024.",
+   "note_zh": "面向2024 ICASSP SSI挑战赛的多频带联合语音复原与增强网络KS-NET"
+  },
+  {
+   "num": "25",
+   "year": "2024",
+   "citation": "X. Zheng, X. Ren, L. Chen, C. Xu, Y. Wei, \"High Quality Speech Restoration\", Proceedings of the 10th Conference on Sound and Music Technology: Revised Selected Papers, Springer Nature, 2024.",
+   "note_zh": "高质量语音复原（CMST 2024修订精选论文）"
+  },
+  {
+   "num": "24",
+   "year": "2023",
+   "citation": "X. Zheng, X. Ren, L. Chen, C. Xu, Y. Wei, C. Zhang, L. Guo, B. Yu, \"High Quality Speech Restoration from Device Colorated and Reverberated Speech\", National Conference on Sound and Music Technology, CSMT, 2023, pp. 73–83.",
+   "note_zh": "设备染色与混响语音的高质量语音复原"
+  },
+  {
+   "num": "23",
+   "year": "2024",
+   "citation": "H. Wang, S. Zhao, J. Zhou, X. Zheng, H. Sun, X. Wang, Y. Qin, \"Uncertainty-Aware Mean Opinion Score Prediction\", in Interspeech 2024, 2024. (CCF:B)",
+   "note_zh": "不确定性感知的MOS预测"
+  },
+  {
+   "num": "22",
+   "year": "2024",
+   "citation": "G. Yu, X. Zheng, N. Li, R. Han, C. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu, \"BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution\", in ICASSP 2024, 2024. (CCF:B)",
+   "note_zh": "低复杂度高保真带宽自适应神经网络BAE-Net的语音超分辨率"
+  },
+  {
+   "num": "21",
+   "year": "2023",
+   "citation": "C. Xu, X. Zheng, C. Zhang, C. Zhou, Q. Huang, B. Yu,\"Kaq: A Non-Intrusive Stacking Framework for Mean Opinion Score Prediction with Multi-Task Learning\", in ASRU 2023, 2023.",
+   "note_zh": "基于多任务学习的非侵入式堆叠框架MOS预测KAQ"
+  },
+  {
+   "num": "20",
+   "year": "2023",
+   "citation": "H.Wang, S.Zhao, X.Zheng, and Y.Qin, \"RAMP: Retrieval-Augmented MOS Prediction via Confidence-based Dynamic Weighting\", Proc. INTERSPEECH 2023, 2023. (CCF:C)",
+   "note_zh": "基于置信度动态加权的检索增强MOS预测RAMP"
+  },
+  {
+   "num": "19",
+   "year": "2023",
+   "citation": "H. Wang, X. Zheng, Y. Qin, \"Intermediate-task Learning with Pretrained Model for Synthesized Speech MOS Prediction\", in ICME 2023, 2023. (CCF:B)",
+   "note_zh": "面向合成语音MOS预测的预训练模型中间任务学习"
+  },
+  {
+   "num": "18",
+   "year": "2023",
+   "citation": "H. Zhao, N. Li, R. Han, X. Zheng, C. Zhang, L. Guo, B. Yu, “A Low-Latency Deep Hierarchical Fusion Network for Fullband Acoustic Echo Cancellation”, in IEEE International Conference on Acoustics, Speech and Signal Processing, 2023. (CCF:B)",
+   "note_zh": "全频带声学回波消除的低延迟深度层次融合网络"
+  },
+  {
+   "num": "17",
+   "year": "2022",
+   "citation": "N. Li, X. Zheng, C. Zhang, L. Guo, and B. Yu, “End-to-End Multi-Loss Training for Low Delay Packet Loss Concealment”, in Interspeech 2022,  pp.585-589, 2022. (CCF:C)",
+   "note_zh": "低延迟丢包隐藏的端到端多损失训练"
+  },
+  {
+   "num": "16",
+   "year": "2022",
+   "citation": "L. Chen, X. Ren, X. Zhang, X. Zheng, C. Zhang, L. Guo, and B. Yu, “Impairment Representation Learning for Speech Quality Assessment”, in Interspeech 2022,  pp.3323-3327, 2022. (CCF:C)",
+   "note_zh": "面向语音质量评估的损伤表征学习"
+  },
+  {
+   "num": "15",
+   "year": "2022",
+   "citation": "L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, “MULTI-SCALE TEMPORAL-FREQUENCY ATTENTION FOR MUSIC SOURCE SEPARATION”, in ICME 2022, pp. 1–6, 2022. (CCF:B)",
+   "note_zh": "面向音乐声源分离的多尺度时频注意力"
+  },
+  {
+   "num": "14",
+   "year": "2022",
+   "citation": "H. Zhao, N. Li, R. Han, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A DEEP HIERARCHICAL FUSION NETWORK FOR FULLBAND ACOUSTIC ECHO CANCELLATION”, in 2022 IEEE International Conference on Acoustics, Speech and Signal Processing, 2022, pp 9112-9116. (CCF:B)",
+   "note_zh": "全频带声学回波消除的深度层次融合网络"
+  },
+  {
+   "num": "13",
+   "year": "2022",
+   "citation": "E. Guizzo et al.,“L3DAS22 CHALLENGE: LEARNING 3D AUDIO SOURCES IN A REAL OFFICE ENVIRONMENT”, in 2022 IEEE International Conference on Acoustics, Speech and Signal Processing, 2022, pp. 9186-9190. (CCF:B)",
+   "note_zh": "真实办公室环境3D声源学习挑战赛L3DAS22"
+  },
+  {
+   "num": "12",
+   "year": "2022",
+   "citation": "X. Zhang, X. Ren, L. Chen, X. Zheng, C. Zhang, L. Guo and B. Yu “A TWO-STEP BACKWARD COMPATIBLE FULLBAND SPEECH ENHANCEMENT SYSTEM”, in 2022 IEEE International Conference on Acoustics, Speech and Signal Processing, 2022, pp. 7762-7766. (CCF:B)",
+   "note_zh": "反向兼容全频带语音增强两步系统"
+  },
+  {
+   "num": "11",
+   "year": "2022",
+   "citation": "L. Chen, C. Xu, X. Zhang, X. Ren, X. Zheng, C. Zhang, L. Guo and B. Yu “MULTI-STAGE AND MULTI-LOSS TRAINING FOR FULLBAND NON-PERSONALIZED AND PERSONALIZED SPEECH ENHANCEMENT”, in 2022 IEEE International Conference on Acoustics, Speech and Signal Processing, 2022, pp. 9296-9300. (CCF:B)",
+   "note_zh": "全频带非个性化与个性化语音增强的多阶段多损失训练"
+  },
+  {
+   "num": "10",
+   "year": "2021",
+   "citation": "X. Ren, X. Zhang, L. Chen, X. Zheng, C. Zhang, L. Guo, and B. Yu, ”A Causal U-net based Neural Beamforming Network for Real-Time Multi-Channel Speech Enhancement”, in INTERSPEECH 2021, 2021. (CCF:C)",
+   "note_zh": "实时多通道语音增强的因果U-net神经波束成形网络"
+  },
+  {
+   "num": "9",
+   "year": "2021",
+   "citation": "X. Zhang, X. Ren, X. Zheng, L. Chen, C. Zhang, L. Guo, and B. Yu, ”Low-Delay Speech Enhancement Using Perceptually Motivated Target and Loss”, in INTERSPEECH 2021, 2021. (CCF:C)",
+   "note_zh": "基于感知目标与损失的低延迟语音增强"
+  },
+  {
+   "num": "8",
+   "year": "2021",
+   "citation": "X. Zheng, C. Zhang, ”Towards Blind Audio Quality Assessment using a Convolutional-Recurrent Neural Network”, in 2021 Thirteenth International Conference on Quality of Multimedia Experience (QoMEX), June, 2021.",
+   "note_zh": "基于卷积循环网络的盲音频质量评估"
+  },
+  {
+   "num": "7",
+   "year": "2021",
+   "citation": "X. Ren, L. Chen, X. Zheng, C. Xu, C. Zhang, L. Guo, and B. Yu., “A Neural Beamforming Network for B-Format 3D Speech Enhancement and Recognition”, in 2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP), Oct. 2021, pp. 1–6.",
+   "note_zh": "B格式3D语音增强与识别的神经波束成形网络"
+  },
+  {
+   "num": "6",
+   "year": "2014",
+   "citation": "X. Zheng, C. Ritz, ”Packet loss protection for interactive speech object rendering: a multiple description approach”, in 2nd IEEE China Summit and International Conference on Signal and Information Processing, July, 2014.",
+   "note_zh": "交互式语音对象渲染的丢包保护：多描述方法"
+  },
+  {
+   "num": "5",
+   "year": "2013",
+   "citation": "X. Zheng, C. Ritz, and J. Xi, ”A Psychoacoustic-Based Analysis-by-Synthesis Scheme for Jointly Encoding Multiple Audio Objects Into Independent Mixtures”, in IEEE International Conference on Acoustics, Speech and Signal Processing, May, 2013. (CCF:B)",
+   "note_zh": "多音频对象联合编码为独立混音的心理声学分析-合成方案"
+  },
+  {
+   "num": "4",
+   "year": "2012",
+   "citation": "X. Zheng, C. Ritz, ”Packet Loss Protection For Interactive Audio Object Rendering: A Multiple Description Approach”, in 4th International Workshop on Quality of Multimedia Experience, July, 2012.",
+   "note_zh": "交互式音频对象渲染的丢包保护：多描述方法"
+  },
+  {
+   "num": "3",
+   "year": "2012",
+   "citation": "X. Zheng, C. Ritz, and J. Xi, “Encoding navigable speech sources: an analysis by synthesis approach”, in IEEE International Conference on Acoustics, Speech and Signal Processing, March, 2012. (CCF:B)",
+   "note_zh": "可导航语音声源编码：分析-合成方法"
+  },
+  {
+   "num": "2",
+   "year": "2011",
+   "citation": "X. Zheng and C. Ritz, “Hybrid FEC and MDC models for low-delay packet-loss recovery”, in 5th International Conference on Signal Processing and Communication Systems (ICSPCS), 2011, pp.1–6.",
+   "note_zh": "低延迟丢包恢复的混合FEC与MDC模型"
+  },
+  {
+   "num": "1",
+   "year": "2011",
+   "citation": "X. Zheng and C. Ritz, “Compression of navigable speech soundfield zones”, in Multimedia Signal Processing (MMSP), 2011 IEEE 13th International Workshop on, 2011, pp. 1 –6.",
+   "note_zh": "可导航语音声场区域压缩"
+  }
+ ],
+ "thesis": [
+  {
+   "num": "T",
+   "year": "2013",
+   "citation": "X. Zheng, “Soundfield navigation: Separation, compression and transmission”, PhD thesis, University of Wollongong, 2013.",
+   "note_zh": "声场导航：分离、压缩与传输（博士论文）"
+  }
+ ],
+ "patents_intl": [
+  {
+   "num": "1",
+   "pid": "US10594283B2",
+   "title_en": "Audio signal loudness control",
+   "title_zh": "音频信号响度控制",
+   "inventors": "G. MA, X. ZHENG",
+   "year": "2020",
+   "country": "美国",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "2",
+   "pid": "US10096329B2",
+   "title_en": "Enhancing intelligibility of speech content in an audio signal",
+   "title_zh": "提升音频信号中语音内容的可懂度",
+   "inventors": "G. MA, X. Zheng, C. Brown",
+   "year": "2018",
+   "country": "美国",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "3",
+   "pid": "US10038961B2",
+   "title_en": "Modeling a frequency response characteristic of an electro-acoustic transducer",
+   "title_zh": "电声换能器频率响应特性的建模",
+   "inventors": "G. MA, X. Zheng, C. Brown",
+   "year": "2018",
+   "country": "美国",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "4",
+   "pid": "US9911404B2",
+   "title_en": "Combined active noise cancellation and noise compensation in headphone",
+   "title_zh": "耳机中主动降噪与噪声补偿相结合",
+   "inventors": "G. MA, X. Zheng",
+   "year": "2018",
+   "country": "美国",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "5",
+   "pid": "US10356524B2",
+   "title_en": "User experience oriented audio signal processing",
+   "title_zh": "用户体验导向的音频信号处理",
+   "inventors": "G. MA, X. Zheng, C. Zhang, X. Sun",
+   "year": "2019",
+   "country": "美国",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "6",
+   "pid": "US10750306B2",
+   "title_en": "Reverberation generation for headphone virtualization",
+   "title_zh": "用于耳机虚拟化的混响生成",
+   "inventors": "L. Fielder, Z. Shuang, G. Davidson, X. Zheng, M. Vinton",
+   "year": "2020",
+   "country": "美国",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "7",
+   "pid": "US10848873B2",
+   "title_en": "Orientation-aware surround sound playback",
+   "title_zh": "方向感知的环绕声回放",
+   "inventors": "X. Sun, G. MA, X. Zheng",
+   "year": "2020",
+   "country": "美国",
+   "status": "已授权",
+   "note": "网页行缺授权年份，补2020"
+  },
+  {
+   "num": "8",
+   "pid": "US11636836B2",
+   "title_en": "Method for processing audio and electronic device",
+   "title_zh": "音频处理方法及电子设备",
+   "inventors": "X. Zheng, C. Zhang",
+   "year": "2023",
+   "country": "美国",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "9",
+   "pid": "US12335717B2",
+   "title_en": "Method and apparatus for spatial audio reproduction using directional room impulse responses",
+   "title_zh": "使用方向性房间脉冲响应的空间音频重现方法与装置",
+   "inventors": "Xiguang ZHENG 等",
+   "year": "2025",
+   "country": "美国",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 新增（ETRI），发明人全名单待补"
+  }
+ ],
+ "patents_cn": [
+  {
+   "num": "91",
+   "pid": "CN-116741191-B",
+   "name": "音频信号处理方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2026",
+   "month": "5",
+   "day": "12",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "90",
+   "pid": "CN-115831133-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2026",
+   "month": "5",
+   "day": "12",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "89",
+   "pid": "CN-115631759-B",
+   "name": "语音增强网络训练、语音增强方法、装置及电子设备",
+   "inventors": "郑羲光 等",
+   "year": "2026",
+   "month": "4",
+   "day": "21",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "88",
+   "pid": "CN-116259329-B",
+   "name": "人声伴奏分离模型的训练方法、装置及电子设备",
+   "inventors": "郑羲光 等",
+   "year": "2026",
+   "month": "3",
+   "day": "31",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "87",
+   "pid": "CN-114827886-B",
+   "name": "音频生成方法、装置、电子设备和存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2026",
+   "month": "3",
+   "day": "31",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "86",
+   "pid": "CN-115641873-B",
+   "name": "音频信息评价方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2026",
+   "month": "3",
+   "day": "10",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "85",
+   "pid": "CN-116705007-B",
+   "name": "语音确定模型训练方法、对象语音提取方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2026",
+   "month": "2",
+   "day": "27",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "84",
+   "pid": "CN-116564319-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "12",
+   "day": "9",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "83",
+   "pid": "CN-115565508-B",
+   "name": "歌曲匹配方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "11",
+   "day": "7",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "82",
+   "pid": "CN-115550729-B",
+   "name": "音频编码方法、装置、设备和介质",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "10",
+   "day": "28",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "81",
+   "pid": "CN-116095373-B",
+   "name": "一种资源处理方法、装置、设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "10",
+   "day": "28",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "80",
+   "pid": "CN-116129934-B",
+   "name": "音频分析方法、装置、设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "9",
+   "day": "30",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "79",
+   "pid": "CN-115410587-B",
+   "name": "音频数据处理方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "8",
+   "day": "15",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "78",
+   "pid": "CN-116189708-B",
+   "name": "转场点的确定方法、装置、设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "8",
+   "day": "5",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "77",
+   "pid": "CN-114758668-B",
+   "name": "语音增强模型的训练方法和语音增强方法",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "7",
+   "day": "4",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "76",
+   "pid": "CN-115083443-B",
+   "name": "语音质量确定模型的预训练方法和语音质量确定方法",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "5",
+   "day": "9",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "75",
+   "pid": "CN-115132222-B",
+   "name": "音轨分离模型的训练方法及装置和音轨分离方法及装置",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "5",
+   "day": "2",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "74",
+   "pid": "CN-114677995-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "4",
+   "day": "29",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "73",
+   "pid": "CN-114694683-B",
+   "name": "语音增强评测方法、语音增强评测模型的训练方法和装置",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "4",
+   "day": "11",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "72",
+   "pid": "CN-114420077-B",
+   "name": "和弦识别模型的训练方法及装置、和弦识别方法及装置",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "4",
+   "day": "8",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "71",
+   "pid": "CN-115410594-B",
+   "name": "语音增强方法和装置",
+   "inventors": "郑羲光 等",
+   "year": "2025",
+   "month": "3",
+   "day": "11",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": "2026-09 依 Google Patents 清单新增，发明人全名单待补"
+  },
+  {
+   "num": "70",
+   "pid": "CN-115410586-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "张旭, 郑羲光, 陈联武, 张晨",
+   "year": "2025",
+   "month": "2",
+   "day": "25",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "69",
+   "pid": "CN-113990343-B",
+   "name": "语音降噪模型的训练方法和装置及语音降噪方法和装置",
+   "inventors": "张旭, 郑羲光, 韩润强, 张晨",
+   "year": "2025",
+   "month": "2",
+   "day": "11",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "68",
+   "pid": "CN-114242094-B",
+   "name": "音频处理方法及装置",
+   "inventors": "范欣悦, 李子涵, 郑羲光, 张晨",
+   "year": "2025",
+   "month": "1",
+   "day": "21",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "67",
+   "pid": "CN-114613370-B",
+   "name": "语音对象识别模型的训练方法、识别方法和装置",
+   "inventors": "许成林, 郑羲光, 陈联武, 张晨",
+   "year": "2024",
+   "month": "12",
+   "day": "31",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "66",
+   "pid": "CN-114360555-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "张晨, 郑羲光, 李楠",
+   "year": "2024",
+   "month": "12",
+   "day": "24",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "65",
+   "pid": "CN-114038476-B",
+   "name": "音频信号处理方法及装置",
+   "inventors": "张晨, 张旭, 郑羲光, 李楠, 韩润强",
+   "year": "2024",
+   "month": "12",
+   "day": "20",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "64",
+   "pid": "CN-114121029-B",
+   "name": "语音增强模型的训练方法和装置以及语音增强方法和装置",
+   "inventors": "张旭, 陈联武, 张晨, 郑羲光, 任新蕾",
+   "year": "2024",
+   "month": "12",
+   "day": "10",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "63",
+   "pid": "CN-114154574-B",
+   "name": "节拍重拍联合检测模型的训练及节拍重拍联合检测方法",
+   "inventors": "张晨, 范欣悦, 张旭, 郑羲光",
+   "year": "2024",
+   "month": "12",
+   "day": "3",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "62",
+   "pid": "CN-114897157-B",
+   "name": "节拍重拍联合检测模型的训练及节拍重拍联合检测方法",
+   "inventors": "张晨, 范欣悦, 张旭, 郑羲光",
+   "year": "2024",
+   "month": "11",
+   "day": "26",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "61",
+   "pid": "CN-114242110-B",
+   "name": "模型训练方法、音频处理方法、装置、设备、介质及产品",
+   "inventors": "张晨, 任新蕾, 郑羲光",
+   "year": "2024",
+   "month": "11",
+   "day": "26",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "60",
+   "pid": "CN-115294997-B",
+   "name": "语音处理方法、装置、电子设备及存储介质",
+   "inventors": "张晨, 赵昊然, 李楠, 韩润强, 陈联武, 郑羲光",
+   "year": "2024",
+   "month": "10",
+   "day": "29",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "59",
+   "pid": "CN-115331683-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "张晨, 郑羲光, 李轩",
+   "year": "2024",
+   "month": "10",
+   "day": "25",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "58",
+   "pid": "CN-113990327-B",
+   "name": "说话对象表征提取模型训练方法和说话对象身份识别方法",
+   "inventors": "张晨, 许成林, 郑羲光, 陈联武",
+   "year": "2024",
+   "month": "9",
+   "day": "20",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "57",
+   "pid": "CN-112967735-B",
+   "name": "语音质量检测模型的训练方法及语音质量的检测方法",
+   "inventors": "郭亮, 郑羲光, 郑晓昊, 邢文浩, 罗必达, 张晨",
+   "year": "2024",
+   "month": "9",
+   "day": "20",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "56",
+   "pid": "CN-112447183-B",
+   "name": "音频处理模型的训练、音频去噪方法、装置及电子设备",
+   "inventors": "张晨, 郑羲光, 张旭",
+   "year": "2024",
+   "month": "8",
+   "day": "13",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "55",
+   "pid": "CN-115334413-B",
+   "name": "语音信号处理方法、系统、装置及电子设备",
+   "inventors": "张晨, 韩润强, 吕新亮, 赵昊然, 郑羲光",
+   "year": "2024",
+   "month": "7",
+   "day": "12",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "54",
+   "pid": "CN-112309426-B",
+   "name": "语音处理模型训练方法及装置和语音处理方法及装置",
+   "inventors": "张晨, 郑羲光, 李楠, 任新蕾",
+   "year": "2024",
+   "month": "7",
+   "day": "12",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "53",
+   "pid": "CN-112365868-B",
+   "name": "声音处理方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光, 范欣悦, 张晨, 李楠",
+   "year": "2024",
+   "month": "5",
+   "day": "28",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "52",
+   "pid": "CN-113314101-B",
+   "name": "一种语音处理方法、装置、电子设备及存储介质",
+   "inventors": "张颖, 杨鹏, 李楠, 王芮, 张晨, 郑羲光, 车浩",
+   "year": "2024",
+   "month": "5",
+   "day": "14",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "51",
+   "pid": "CN-113707163-B",
+   "name": "语音处理方法及其装置和模型训练方法及其装置",
+   "inventors": "郑羲光, 范欣悦, 张晨",
+   "year": "2024",
+   "month": "5",
+   "day": "14",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "50",
+   "pid": "CN-112309427-B",
+   "name": "语音回退方法及其装置",
+   "inventors": "张旭, 张晨, 李楠, 郑羲光",
+   "year": "2024",
+   "month": "5",
+   "day": "14",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "49",
+   "pid": "CN-111883147-B",
+   "name": "音频数据处理方法、装置、计算机设备及存储介质",
+   "inventors": "张旭, 郑羲光, 张晨",
+   "year": "2024",
+   "month": "5",
+   "day": "7",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "48",
+   "pid": "CN-112216294-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光, 张晨",
+   "year": "2024",
+   "month": "3",
+   "day": "19",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "47",
+   "pid": "CN-113470685-B",
+   "name": "语音增强模型的训练方法和装置及语音增强方法和装置",
+   "inventors": "韩润强, 张晨, 吕新亮, 郑羲光",
+   "year": "2024",
+   "month": "3",
+   "day": "12",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "46",
+   "pid": "CN-112216259-B",
+   "name": "人声伴奏对齐方法及装置",
+   "inventors": "范欣悦, 张晨, 郑羲光, 李楠",
+   "year": "2024",
+   "month": "3",
+   "day": "8",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "45",
+   "pid": "CN-113593594-B",
+   "name": "语音增强模型的训练方法和设备及语音增强方法和设备",
+   "inventors": "陈联武, 张晨, 张旭, 郑羲光, 任新蕾",
+   "year": "2024",
+   "month": "3",
+   "day": "8",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "44",
+   "pid": "CN-111816197-B",
+   "name": "音频编码方法、装置、电子设备和存储介质",
+   "inventors": "郑羲光, 董培, 陈翔宇, 张晨",
+   "year": "2024",
+   "month": "2",
+   "day": "23",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "43",
+   "pid": "CN-113555031-B",
+   "name": "语音增强模型的训练方法及装置、语音增强方法及装置",
+   "inventors": "陈联武, 张晨, 张旭, 郑羲光, 任新蕾",
+   "year": "2024",
+   "month": "2",
+   "day": "23",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "42",
+   "pid": "CN-113470616-B",
+   "name": "语音处理方法和装置以及声码器和声码器的训练方法",
+   "inventors": "张旭, 张新, 李楠, 郑羲光, 张晨",
+   "year": "2024",
+   "month": "2",
+   "day": "23",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "41",
+   "pid": "CN-113284507-B",
+   "name": "语音增强模型的训练方法和装置及语音增强方法和装置",
+   "inventors": "张新, 郑羲光, 张晨",
+   "year": "2024",
+   "month": "2",
+   "day": "13",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "40",
+   "pid": "CN-112151054-B",
+   "name": "音频降噪处理方法、装置、服务器及存储介质",
+   "inventors": "张旭, 郑羲光, 张晨",
+   "year": "2024",
+   "month": "2",
+   "day": "13",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "39",
+   "pid": "CN-115334349-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "任新蕾, 郑羲光, 陈联武, 张晨",
+   "year": "2024",
+   "month": "1",
+   "day": "2",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "38",
+   "pid": "CN-114866856-B",
+   "name": "音频信号的处理方法、音频生成模型的训练方法及装置",
+   "inventors": "李楠, 郑羲光, 张晨",
+   "year": "2024",
+   "month": "1",
+   "day": "2",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "37",
+   "pid": "CN-113035221-B",
+   "name": "语音处理模型的训练方法和装置以及语音处理方法和装置",
+   "inventors": "任新蕾, 郑羲光, 李楠, 张晨",
+   "year": "2023",
+   "month": "12",
+   "day": "19",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "36",
+   "pid": "CN-111863033-B",
+   "name": "音频质量识别模型的训练方法、装置、服务器和存储介质",
+   "inventors": "郑羲光, 张晨",
+   "year": "2023",
+   "month": "12",
+   "day": "12",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "35",
+   "pid": "CN-111554321-B",
+   "name": "降噪模型训练方法、装置、电子设备及存储介质",
+   "inventors": "张旭, 郑羲光, 张晨",
+   "year": "2023",
+   "month": "12",
+   "day": "5",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "34",
+   "pid": "CN-113203988-B",
+   "name": "声源定位方法及装置",
+   "inventors": "吕新亮, 郑羲光, 张晨",
+   "year": "2023",
+   "month": "11",
+   "day": "21",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "33",
+   "pid": "CN-112185421-B",
+   "name": "音质检测方法、装置、电子设备及存储介质",
+   "inventors": "郑羲光, 陈翔宇, 张晨",
+   "year": "2023",
+   "month": "11",
+   "day": "21",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "32",
+   "pid": "CN-112669797-B",
+   "name": "音频处理方法、装置、电子设备及存储介质",
+   "inventors": "范欣悦, 张晨, 郑羲光",
+   "year": "2023",
+   "month": "11",
+   "day": "14",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "31",
+   "pid": "CN-111883164-B",
+   "name": "模型训练方法、装置、电子设备及存储介质",
+   "inventors": "张旭, 郑羲光, 张晨",
+   "year": "2023",
+   "month": "11",
+   "day": "3",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "30",
+   "pid": "CN-112951256-B",
+   "name": "语音处理方法及装置",
+   "inventors": "郑羲光, 张新, 李楠, 张晨",
+   "year": "2023",
+   "month": "10",
+   "day": "31",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "29",
+   "pid": "CN-111667842-B",
+   "name": "音频信号处理方法及装置",
+   "inventors": "张旭, 张晨, 郑羲光",
+   "year": "2023",
+   "month": "10",
+   "day": "31",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "28",
+   "pid": "CN-112927707-B",
+   "name": "语音增强模型的训练方法和装置及语音增强方法和装置",
+   "inventors": "张新, 张旭, 郑羲光, 张晨, 郭亮",
+   "year": "2023",
+   "month": "10",
+   "day": "3",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "27",
+   "pid": "CN-113436644-B",
+   "name": "音质评估方法、装置、电子设备及存储介质",
+   "inventors": "张旭, 郑羲光, 张晨, 郭亮",
+   "year": "2023",
+   "month": "9",
+   "day": "1",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "26",
+   "pid": "CN-111429941-B",
+   "name": "音频定位的方法、装置、终端设备及服务器",
+   "inventors": "郑羲光, 张晨",
+   "year": "2023",
+   "month": "8",
+   "day": "22",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "25",
+   "pid": "CN-111489757-B",
+   "name": "音频处理方法、装置、电子设备及可读存储介质",
+   "inventors": "郑羲光, 董培, 张晨, 郭亮",
+   "year": "2023",
+   "month": "8",
+   "day": "18",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "24",
+   "pid": "CN-113192524-B",
+   "name": "音频信号处理方法及装置",
+   "inventors": "范欣悦, 崔凡, 郑羲光, 张晨",
+   "year": "2023",
+   "month": "8",
+   "day": "18",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "23",
+   "pid": "CN-111402918-B",
+   "name": "一种音频处理方法、装置、设备及存储介质",
+   "inventors": "董培, 郑羲光, 张晨",
+   "year": "2023",
+   "month": "8",
+   "day": "8",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "22",
+   "pid": "CN-113192536-B",
+   "name": "语音质量检测模型的训练方法、语音质量检测方法及装置",
+   "inventors": "张旭, 郑羲光, 张晨, 郭亮",
+   "year": "2023",
+   "month": "7",
+   "day": "28",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "21",
+   "pid": "CN-113314147-B",
+   "name": "音频处理模型的训练方法及装置、音频处理方法及装置",
+   "inventors": "张旭, 郑羲光, 张晨, 任新蕾",
+   "year": "2023",
+   "month": "7",
+   "day": "25",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "20",
+   "pid": "CN-112712816-B",
+   "name": "语音处理模型的训练方法和装置以及语音处理方法和装置",
+   "inventors": "任新蕾, 郑羲光, 李楠, 张晨",
+   "year": "2023",
+   "month": "6",
+   "day": "20",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "19",
+   "pid": "CN-113473352-B",
+   "name": "双声道音频后处理的方法和装置",
+   "inventors": "范欣悦, 初钧晗, 吴珈旻, 张晨, 郑羲光",
+   "year": "2023",
+   "month": "6",
+   "day": "20",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "18",
+   "pid": "CN-113436603-B",
+   "name": "声码器的训练方法和装置及合成音频信号的方法和声码器",
+   "inventors": "崔凡, 任新蕾, 郑羲光, 李楠, 张晨",
+   "year": "2023",
+   "month": "5",
+   "day": "2",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "17",
+   "pid": "CN-113259438-B",
+   "name": "模型文件的发送方法和装置及模型文件的接收方法和装置",
+   "inventors": "张新, 李楠, 郑羲光, 张晨",
+   "year": "2023",
+   "month": "3",
+   "day": "31",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "16",
+   "pid": "CN-112652290-B",
+   "name": "产生混响音频信号的方法及音频处理模型的训练方法",
+   "inventors": "张旭, 郑羲光, 张晨",
+   "year": "2023",
+   "month": "1",
+   "day": "20",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "15",
+   "pid": "CN-113225574-B",
+   "name": "信号处理方法及装置",
+   "inventors": "张晨, 郑羲光",
+   "year": "2023",
+   "month": "1",
+   "day": "20",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "14",
+   "pid": "CN-112423019-B",
+   "name": "调整音频播放速度的方法、装置、电子设备及存储介质",
+   "inventors": "李楠, 郑羲光, 范欣悦, 张晨",
+   "year": "2022",
+   "month": "11",
+   "day": "22",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "13",
+   "pid": "CN-113691927-B",
+   "name": "音频信号处理方法及装置",
+   "inventors": "范欣悦, 张晨, 郑羲光",
+   "year": "2022",
+   "month": "11",
+   "day": "11",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "12",
+   "pid": "CN-108681811-B",
+   "name": "一种去中心化的数据生态系统",
+   "inventors": "吴妍, 郑羲光",
+   "year": "2022",
+   "month": "10",
+   "day": "18",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "11",
+   "pid": "CN-111405416-B",
+   "name": "立体声录制方法、电子设备及存储介质",
+   "inventors": "张晨, 董培, 邢文浩, 陈翔宇, 郑羲光",
+   "year": "2022",
+   "month": "6",
+   "day": "24",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "10",
+   "pid": "CN-111341329-B",
+   "name": "水印信息添加方法、提取方法、装置、设备及介质",
+   "inventors": "张晨, 郑羲光, 郭亮",
+   "year": "2022",
+   "month": "1",
+   "day": "21",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "9",
+   "pid": "CN-108021675-B",
+   "name": "一种多设备录音的自动切分对齐方法",
+   "inventors": "吴妍, 郑羲光",
+   "year": "2021",
+   "month": "11",
+   "day": "9",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "8",
+   "pid": "CN-111326132-B",
+   "name": "音频处理方法、装置、存储介质及电子设备",
+   "inventors": "郑羲光, 张晨",
+   "year": "2021",
+   "month": "10",
+   "day": "22",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "7",
+   "pid": "CN-113241088-B",
+   "name": "语音增强模型的训练方法及装置、语音增强方法及装置",
+   "inventors": "任新蕾, 张旭, 郑羲光, 陈联武, 张晨",
+   "year": "2021",
+   "month": "10",
+   "day": "22",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "6",
+   "pid": "CN-111313979-B",
+   "name": "数据传输方法、装置、电子设备及存储介质",
+   "inventors": "张晨, 董培, 郭亮, 陈翔宇, 郑羲光, 邢文浩",
+   "year": "2021",
+   "month": "9",
+   "day": "17",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "5",
+   "pid": "CN-109144257-B",
+   "name": "从歌曲中提取特征并转化为触觉感受的方法",
+   "inventors": "尚梦宸, 郑羲光, 侯欢",
+   "year": "2021",
+   "month": "7",
+   "day": "20",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "4",
+   "pid": "CN-109009058-B",
+   "name": "一种胎心监测方法",
+   "inventors": "尚梦宸, 郑羲光, 杨维国",
+   "year": "2021",
+   "month": "4",
+   "day": "16",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "3",
+   "pid": "CN-112289333-B",
+   "name": "语音增强模型的训练方法和装置及语音增强方法和装置",
+   "inventors": "张新, 郭亮, 郑羲光, 张晨",
+   "year": "2021",
+   "month": "4",
+   "day": "13",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "2",
+   "pid": "CN-107578784-B",
+   "name": "一种从音频中提取目标源的方法及装置",
+   "inventors": "郑羲光, 尚梦宸, 刘飞",
+   "year": "2020",
+   "month": "12",
+   "day": "11",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  },
+  {
+   "num": "1",
+   "pid": "CN-107071689-B",
+   "name": "一种方向自适应的空间音频处理方法及系统",
+   "inventors": "郑羲光, 杨维国",
+   "year": "2018",
+   "month": "12",
+   "day": "14",
+   "ptype": "发明",
+   "status": "已授权",
+   "note": ""
+  }
+ ]
+}

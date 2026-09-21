@@ -1,0 +1,104 @@
+---
+layout: default
+---
+{% assign d = site.data.about %}
+{% assign zh = true %}
+{% if page.lang == "en" %}{% assign zh = false %}{% endif %}
+
+<div class="page">
+  <h1 class="page-title">{% if zh %}{{ page.title_zh }}{% else %}{{ page.title_en }}{% endif %}</h1>
+
+  {% case page.section %}
+
+  {% when "experience" %}
+    {% for e in d.experience %}
+      <p>
+        <strong>{{ e.start }} – {% if e.end == "至今" %}{% if zh %}至今{% else %}present{% endif %}{% else %}{{ e.end }}{% endif %}&nbsp;&nbsp;&nbsp;{% if zh %}{{ e.org_zh }}{% else %}{{ e.org_en }}{% endif %}</strong><br>
+        <code>{% if zh %}{{ e.role_zh }}{% else %}{{ e.role_en }}{% endif %}</code>{% if zh and e.note != "" %} <span class="note">({{ e.note }})</span>{% endif %}<br>
+        {% if zh %}{{ e.desc_zh }}{% else %}{{ e.desc_en }}{% endif %}
+      </p>
+    {% endfor %}
+
+  {% when "appointments" %}
+    <h2>{% if zh %}学术兼职{% else %}Academic Appointments{% endif %}</h2>
+    {% for e in d.appointments %}
+      {% if e.category == "学术兼职" %}
+        <p>
+          {% if e.start != "" %}<strong>{{ e.start }}{% if e.end != "" %} – {{ e.end }}{% elsif e.start != "长期" %} – {% if zh %}至今{% else %}present{% endif %}{% endif %}{% if e.org_zh != "" %}&nbsp;&nbsp;&nbsp;{% endif %}</strong>{% endif %}
+          {% if zh %}{{ e.org_zh }}{% else %}{{ e.org_en }}{% endif %}
+          {% if e.org_zh != "" %}<br>{% endif %}
+          <code>{% if zh %}{{ e.role_zh }}{% else %}{{ e.role_en }}{% endif %}</code>
+          {% if e.note != "" %}<br><span class="note">{{ e.note }}</span>{% endif %}
+        </p>
+      {% endif %}
+    {% endfor %}
+    <h2>{% if zh %}会员职称{% else %}Memberships &amp; Titles{% endif %}</h2>
+    {% for e in d.appointments %}
+      {% if e.category == "会员职称" %}
+        <p>
+          {% if e.org_zh != "" %}<strong>{{ e.org_zh }}</strong> {% endif %}<code>{% if zh %}{{ e.role_zh }}{% else %}{{ e.role_en }}{% endif %}</code>
+        </p>
+      {% endif %}
+    {% endfor %}
+
+  {% when "education" %}
+    {% for e in d.education %}
+      <p>
+        <strong>{{ e.start }} – {{ e.end }}</strong><br>
+        <strong>{% if zh %}{{ e.school_zh }}{% else %}{{ e.school_en }}{% endif %}</strong><br>
+        <code>{{ e.degree }}</code>{% if e.major != "" %} ({{ e.major }}){% endif %}
+        {% if e.advisor != "" %}<br>{% if zh %}导师{% else %}Advisor{% endif %}: {{ e.advisor }}{% endif %}
+      </p>
+    {% endfor %}
+
+  {% when "honors" %}
+    <p>
+      {% for e in d.honors %}
+        {{ e.year }}
+        {% if zh %}
+          {% if e.rank != "" %}{{ e.rank }}, {% endif %}{{ e.name_zh }}
+        {% else %}
+          {% if e.note contains "RNK" %}<strong>{{ e.note }}</strong> {% endif %}{{ e.name_en }}
+        {% endif %}
+        <br>
+      {% endfor %}
+    </p>
+
+  {% when "journals" %}
+    {% for e in d.journals %}
+      <p>
+        <strong>{{ e.num }}.</strong> {{ e.citation }}
+        {% if zh and e.note_zh != "" %}<br><span class="note">{{ e.note_zh }}</span>{% endif %}
+      </p>
+    {% endfor %}
+
+  {% when "conferences" %}
+    {% for e in d.conferences %}
+      <p>
+        <strong>{{ e.num }}.</strong> {{ e.citation }}
+        {% if zh and e.note_zh != "" %}<br><span class="note">{{ e.note_zh }}</span>{% endif %}
+      </p>
+    {% endfor %}
+    {% for e in d.thesis %}
+      <p>
+        <strong>{% if zh %}博士论文{% else %}PhD Thesis{% endif %}.</strong> {{ e.citation }}
+        {% if zh and e.note_zh != "" %}<br><span class="note">{{ e.note_zh }}</span>{% endif %}
+      </p>
+    {% endfor %}
+
+  {% when "patents_intl" %}
+    {% for e in d.patents_intl %}
+      <p>
+        <strong>{{ e.num }}.</strong> {{ e.inventors }}, &ldquo;{% if zh and e.title_zh != "" %}{{ e.title_zh }}{% else %}{{ e.title_en }}{% endif %}&rdquo;, <code>{{ e.pid }}</code>, {% if zh %}{{ e.year }} 年授权{% else %}granted on {{ e.year }}{% endif %}.
+      </p>
+    {% endfor %}
+
+  {% when "patents_cn" %}
+    {% for e in d.patents_cn %}
+      <p>
+        <strong>{{ e.num }}.</strong> {{ e.inventors }}, {{ e.name }}, <code>{{ e.pid }}</code>, {{ e.year }}/{{ e.month }}/{{ e.day }}
+      </p>
+    {% endfor %}
+
+  {% endcase %}
+</div>

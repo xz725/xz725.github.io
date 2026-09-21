@@ -1,20 +1,35 @@
 title:              Xiguang Zheng (郑羲光)
-tagline:            
-description:        .
+tagline:
+description:        音频信号处理 · Audio Signal Processing
 url:                http://xz725.github.io
 
 author:
   name:             Xiguang Zheng
-  url:              
+  url:
   email:            xzhen@ieee.org
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
 permalink:          /:title/
-paginate:           5
-defaults:
-  -
-    scope:
-      path:         ''
-    values:
-      layout:       post
+
+# 侧边栏标签页：与 raw_data/about.xlsx 的 sheet 2..last 一一对应
+tabs:
+  - {id: home,         zh: 首页,     en: Home,          url: /}
+  - {id: experience,   zh: 工作经历, en: Experience,     url: /experience/}
+  - {id: appointments, zh: 学术兼职, en: Appointments,   url: /appointments/}
+  - {id: education,    zh: 教育经历, en: Education,      url: /education/}
+  - {id: honors,       zh: 荣誉奖项, en: Honors,         url: /honors/}
+  - {id: journals,     zh: 期刊文章, en: Journals,       url: /journals/}
+  - {id: conferences,  zh: 会议文章, en: Conferences,    url: /conferences/}
+  - {id: patents_intl, zh: 美国专利, en: "Int'l Patents", url: /patents-intl/}
+  - {id: patents_cn,   zh: 中国专利, en: CN Patents,     url: /patents-cn/}
+
+# 数据源与维护脚本不进入构建产物
+exclude:
+  - raw_data
+  - .agents
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - AGENTS.md
