@@ -20,10 +20,10 @@
   }
 }
 
-/* Blank space above the first (Home) tab — matches the masthead's 1rem
-   padding-top so the Home tab aligns with the site-name line */
+/* Blank space above the first (Home) tab — tuned so the Home tab text
+   aligns with the site-name line in the masthead */
 .sidebar-nav {
-  margin-top: 1rem;
+  margin-top: 0.55rem;
   border-top: none;
 }
 
