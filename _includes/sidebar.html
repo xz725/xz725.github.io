@@ -2,12 +2,8 @@
      styles, `#sidebar-checkbox` for behavior. -->
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
-<!-- Toggleable sidebar -->
+<!-- Sidebar (pinned visible via custom.css) -->
 <div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-    <p>{{ site.description }}</p>
-  </div>
-
   <nav class="sidebar-nav">
     {% for t in site.tabs %}
       {% if page.lang == "en" %}
@@ -27,6 +23,10 @@
     {% else %}
       <a href="{{ site.baseurl }}{{ page.url | prepend: "/en" | replace: "//", "/" }}">English</a>
     {% endif %}
+  </div>
+
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
   </div>
 
   <div class="sidebar-item">
